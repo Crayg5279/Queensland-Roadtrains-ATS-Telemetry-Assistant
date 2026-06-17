@@ -1,0 +1,12 @@
+{
+  "fuel_percent": 24.0,
+  "route_distance_km": 2.0,
+  "route_time_min": 5.0,
+  "speed_kmh": 82.0,
+  "speed_limit_kmh": 100.0,
+  "truck_damage_percent": 8.0,
+  "trailer_damage_percent": 2.0,
+  "destination": "the destination",
+  "truck_name": "Big Mac",
+  "has_active_job": true
+}

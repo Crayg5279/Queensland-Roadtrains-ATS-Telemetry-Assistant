@@ -1,0 +1,2322 @@
+{
+  "SPEEDING/medium/01": {
+    "event": "SPEEDING",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Easy boy, ease off the gas.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\medium\\speeding_medium_01.wav",
+    "updated_at": "2026-06-05T22:39:44"
+  },
+  "SPEEDING/high/01": {
+    "event": "SPEEDING",
+    "severity": "high",
+    "slot": 1,
+    "message": "Donny, slow down, you're gonna get dust on me!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\high\\speeding_high_01.wav",
+    "updated_at": "2026-06-05T22:43:18"
+  },
+  "COLLISION/medium/01": {
+    "event": "COLLISION",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Bloody thing's got a dent in it now!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\medium\\collision_medium_01.wav",
+    "updated_at": "2026-06-05T23:05:19"
+  },
+  "JOB_STARTED/standard/01": {
+    "event": "JOB_STARTED",
+    "severity": "standard",
+    "slot": 1,
+    "message": "Righto Donny, let's get moving, the road's waiting for us.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\JOB_STARTED\\standard\\job_started_standard_01.wav",
+    "updated_at": "2026-06-09T22:15:58"
+  },
+  "DELIVERY_SCREEN/standard/01": {
+    "event": "DELIVERY_SCREEN",
+    "severity": "standard",
+    "slot": 1,
+    "message": "That's more like it, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DELIVERY_SCREEN\\standard\\delivery_screen_standard_01.wav",
+    "updated_at": "2026-06-05T22:33:43"
+  },
+  "SPEEDING/low/01": {
+    "event": "SPEEDING",
+    "severity": "low",
+    "slot": 1,
+    "message": "Slows it down a bit, eh?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\low\\speeding_low_01.wav",
+    "updated_at": "2026-06-05T22:36:02"
+  },
+  "LOW_FUEL/medium/01": {
+    "event": "LOW_FUEL",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Fuel's dropping fast, need a fill-up pronto now.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\medium\\low_fuel_medium_01.wav",
+    "updated_at": "2026-06-05T22:55:43"
+  },
+  "CRITICAL_FUEL/critical/01": {
+    "event": "CRITICAL_FUEL",
+    "severity": "critical",
+    "slot": 1,
+    "message": "Mate, runnin' on fumes here, need a top-up ASAP.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CRITICAL_FUEL\\critical\\critical_fuel_critical_01.wav",
+    "updated_at": "2026-06-05T22:59:10"
+  },
+  "JOB_STARTED/standard/02": {
+    "event": "JOB_STARTED",
+    "severity": "standard",
+    "slot": 2,
+    "message": "Got another one for ya, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\JOB_STARTED\\standard\\job_started_standard_02.wav",
+    "updated_at": "2026-06-05T22:29:19"
+  },
+  "SPEEDING/low/02": {
+    "event": "SPEEDING",
+    "severity": "low",
+    "slot": 2,
+    "message": "Calm down, Donny, mate, no need to rush.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\low\\speeding_low_02.wav",
+    "updated_at": "2026-06-05T22:36:24"
+  },
+  "SPEEDING/medium/02": {
+    "event": "SPEEDING",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Easy as, ease off a bit, Donny!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\medium\\speeding_medium_02.wav",
+    "updated_at": "2026-06-05T22:40:05"
+  },
+  "SPEEDING/high/02": {
+    "event": "SPEEDING",
+    "severity": "high",
+    "slot": 2,
+    "message": "Donny, slow down, love!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\high\\speeding_high_02.wav",
+    "updated_at": "2026-06-05T22:43:39"
+  },
+  "LOW_FUEL/medium/02": {
+    "event": "LOW_FUEL",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Fuel's gettin' a bit knackered, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\medium\\low_fuel_medium_02.wav",
+    "updated_at": "2026-06-05T22:56:00"
+  },
+  "CRITICAL_FUEL/critical/02": {
+    "event": "CRITICAL_FUEL",
+    "severity": "critical",
+    "slot": 2,
+    "message": "Fuel's down, need a top-up, pronto, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CRITICAL_FUEL\\critical\\critical_fuel_critical_02.wav",
+    "updated_at": "2026-06-05T22:59:33"
+  },
+  "COLLISION/medium/02": {
+    "event": "COLLISION",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Donny, bloody truck's taken a fair whack!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\medium\\collision_medium_02.wav",
+    "updated_at": "2026-06-05T23:05:38"
+  },
+  "DELIVERY_SCREEN/standard/02": {
+    "event": "DELIVERY_SCREEN",
+    "severity": "standard",
+    "slot": 2,
+    "message": "Good work, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DELIVERY_SCREEN\\standard\\delivery_screen_standard_02.wav",
+    "updated_at": "2026-06-05T22:33:53"
+  },
+  "JOB_STARTED/standard/03": {
+    "event": "JOB_STARTED",
+    "severity": "standard",
+    "slot": 3,
+    "message": "Looks like we're working today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\JOB_STARTED\\standard\\job_started_standard_03.wav",
+    "updated_at": "2026-06-05T22:29:35"
+  },
+  "JOB_STARTED/standard/04": {
+    "event": "JOB_STARTED",
+    "severity": "standard",
+    "slot": 4,
+    "message": "Need you to give it a go, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\JOB_STARTED\\standard\\job_started_standard_04.wav",
+    "updated_at": "2026-06-05T22:29:50"
+  },
+  "JOB_STARTED/standard/05": {
+    "event": "JOB_STARTED",
+    "severity": "standard",
+    "slot": 5,
+    "message": "Another day at the office, brother.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\JOB_STARTED\\standard\\job_started_standard_05.wav",
+    "updated_at": "2026-06-05T22:30:08"
+  },
+  "JOB_STARTED/standard/06": {
+    "event": "JOB_STARTED",
+    "severity": "standard",
+    "slot": 6,
+    "message": "Let's get rolling, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\JOB_STARTED\\standard\\job_started_standard_06.wav",
+    "updated_at": "2026-06-05T22:30:21"
+  },
+  "JOB_STARTED/standard/07": {
+    "event": "JOB_STARTED",
+    "severity": "standard",
+    "slot": 7,
+    "message": "Alright mate, you're good to roll.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\JOB_STARTED\\standard\\job_started_standard_07.wav",
+    "updated_at": "2026-06-05T22:30:36"
+  },
+  "JOB_STARTED/standard/08": {
+    "event": "JOB_STARTED",
+    "severity": "standard",
+    "slot": 8,
+    "message": "Go easy out there, brother.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\JOB_STARTED\\standard\\job_started_standard_08.wav",
+    "updated_at": "2026-06-05T22:30:50"
+  },
+  "JOB_STARTED/standard/09": {
+    "event": "JOB_STARTED",
+    "severity": "standard",
+    "slot": 9,
+    "message": "Looks like we're earning again.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\JOB_STARTED\\standard\\job_started_standard_09.wav",
+    "updated_at": "2026-06-05T22:31:05"
+  },
+  "JOB_STARTED/standard/10": {
+    "event": "JOB_STARTED",
+    "severity": "standard",
+    "slot": 10,
+    "message": "Take it steady today, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\JOB_STARTED\\standard\\job_started_standard_10.wav",
+    "updated_at": "2026-06-05T22:31:19"
+  },
+  "ARRIVING_DESTINATION/standard/01": {
+    "event": "ARRIVING_DESTINATION",
+    "severity": "standard",
+    "slot": 1,
+    "message": "Nearly wrapped up, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ARRIVING_DESTINATION\\standard\\arriving_destination_standard_01.wav",
+    "updated_at": "2026-06-05T22:31:34"
+  },
+  "ARRIVING_DESTINATION/standard/02": {
+    "event": "ARRIVING_DESTINATION",
+    "severity": "standard",
+    "slot": 2,
+    "message": "Not far now, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ARRIVING_DESTINATION\\standard\\arriving_destination_standard_02.wav",
+    "updated_at": "2026-06-05T22:31:48"
+  },
+  "ARRIVING_DESTINATION/standard/03": {
+    "event": "ARRIVING_DESTINATION",
+    "severity": "standard",
+    "slot": 3,
+    "message": "Bring her in tidy, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ARRIVING_DESTINATION\\standard\\arriving_destination_standard_03.wav",
+    "updated_at": "2026-06-05T22:32:02"
+  },
+  "ARRIVING_DESTINATION/standard/04": {
+    "event": "ARRIVING_DESTINATION",
+    "severity": "standard",
+    "slot": 4,
+    "message": "Looking good, brother.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ARRIVING_DESTINATION\\standard\\arriving_destination_standard_04.wav",
+    "updated_at": "2026-06-05T22:32:13"
+  },
+  "ARRIVING_DESTINATION/standard/05": {
+    "event": "ARRIVING_DESTINATION",
+    "severity": "standard",
+    "slot": 5,
+    "message": "Almost done and dusted.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ARRIVING_DESTINATION\\standard\\arriving_destination_standard_05.wav",
+    "updated_at": "2026-06-05T22:32:26"
+  },
+  "ARRIVING_DESTINATION/standard/06": {
+    "event": "ARRIVING_DESTINATION",
+    "severity": "standard",
+    "slot": 6,
+    "message": "Home stretch now, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ARRIVING_DESTINATION\\standard\\arriving_destination_standard_06.wav",
+    "updated_at": "2026-06-05T22:32:38"
+  },
+  "ARRIVING_DESTINATION/standard/07": {
+    "event": "ARRIVING_DESTINATION",
+    "severity": "standard",
+    "slot": 7,
+    "message": "Just about there, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ARRIVING_DESTINATION\\standard\\arriving_destination_standard_07.wav",
+    "updated_at": "2026-06-05T22:32:51"
+  },
+  "ARRIVING_DESTINATION/standard/08": {
+    "event": "ARRIVING_DESTINATION",
+    "severity": "standard",
+    "slot": 8,
+    "message": "Keep it smooth from here.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ARRIVING_DESTINATION\\standard\\arriving_destination_standard_08.wav",
+    "updated_at": "2026-06-05T22:33:04"
+  },
+  "ARRIVING_DESTINATION/standard/09": {
+    "event": "ARRIVING_DESTINATION",
+    "severity": "standard",
+    "slot": 9,
+    "message": "You've got this one covered.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ARRIVING_DESTINATION\\standard\\arriving_destination_standard_09.wav",
+    "updated_at": "2026-06-05T22:33:17"
+  },
+  "ARRIVING_DESTINATION/standard/10": {
+    "event": "ARRIVING_DESTINATION",
+    "severity": "standard",
+    "slot": 10,
+    "message": "Easy finish now, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ARRIVING_DESTINATION\\standard\\arriving_destination_standard_10.wav",
+    "updated_at": "2026-06-05T22:33:30"
+  },
+  "DELIVERY_SCREEN/standard/03": {
+    "event": "DELIVERY_SCREEN",
+    "severity": "standard",
+    "slot": 3,
+    "message": "Another one off the books.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DELIVERY_SCREEN\\standard\\delivery_screen_standard_03.wav",
+    "updated_at": "2026-06-05T22:34:08"
+  },
+  "DELIVERY_SCREEN/standard/04": {
+    "event": "DELIVERY_SCREEN",
+    "severity": "standard",
+    "slot": 4,
+    "message": "Good work, brother, that's another one done and dusted.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DELIVERY_SCREEN\\standard\\delivery_screen_standard_04.wav",
+    "updated_at": "2026-06-09T22:15:34"
+  },
+  "DELIVERY_SCREEN/standard/05": {
+    "event": "DELIVERY_SCREEN",
+    "severity": "standard",
+    "slot": 5,
+    "message": "We'll call that a win.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DELIVERY_SCREEN\\standard\\delivery_screen_standard_05.wav",
+    "updated_at": "2026-06-05T22:34:36"
+  },
+  "DELIVERY_SCREEN/standard/06": {
+    "event": "DELIVERY_SCREEN",
+    "severity": "standard",
+    "slot": 6,
+    "message": "Done and dusted, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DELIVERY_SCREEN\\standard\\delivery_screen_standard_06.wav",
+    "updated_at": "2026-06-05T22:34:50"
+  },
+  "DELIVERY_SCREEN/standard/07": {
+    "event": "DELIVERY_SCREEN",
+    "severity": "standard",
+    "slot": 7,
+    "message": "Can't complain about that.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DELIVERY_SCREEN\\standard\\delivery_screen_standard_07.wav",
+    "updated_at": "2026-06-05T22:35:04"
+  },
+  "DELIVERY_SCREEN/standard/08": {
+    "event": "DELIVERY_SCREEN",
+    "severity": "standard",
+    "slot": 8,
+    "message": "Dad would've liked that one.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DELIVERY_SCREEN\\standard\\delivery_screen_standard_08.wav",
+    "updated_at": "2026-06-05T22:35:17"
+  },
+  "DELIVERY_SCREEN/standard/09": {
+    "event": "DELIVERY_SCREEN",
+    "severity": "standard",
+    "slot": 9,
+    "message": "That'll do nicely, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DELIVERY_SCREEN\\standard\\delivery_screen_standard_09.wav",
+    "updated_at": "2026-06-05T22:35:30"
+  },
+  "DELIVERY_SCREEN/standard/10": {
+    "event": "DELIVERY_SCREEN",
+    "severity": "standard",
+    "slot": 10,
+    "message": "Well done, brother.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DELIVERY_SCREEN\\standard\\delivery_screen_standard_10.wav",
+    "updated_at": "2026-06-05T22:35:42"
+  },
+  "SPEEDING/low/03": {
+    "event": "SPEEDING",
+    "severity": "low",
+    "slot": 3,
+    "message": "Easy on the throttle, Donny, calm down, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\low\\speeding_low_03.wav",
+    "updated_at": "2026-06-05T22:36:48"
+  },
+  "SPEEDING/low/04": {
+    "event": "SPEEDING",
+    "severity": "low",
+    "slot": 4,
+    "message": "Take it easy, Donny, slow down a bit.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\low\\speeding_low_04.wav",
+    "updated_at": "2026-06-05T22:37:12"
+  },
+  "SPEEDING/low/05": {
+    "event": "SPEEDING",
+    "severity": "low",
+    "slot": 5,
+    "message": "Donny, slow down a bit, eh?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\low\\speeding_low_05.wav",
+    "updated_at": "2026-06-05T22:37:30"
+  },
+  "SPEEDING/low/06": {
+    "event": "SPEEDING",
+    "severity": "low",
+    "slot": 6,
+    "message": "Easy does it, mate, slow down a bit.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\low\\speeding_low_06.wav",
+    "updated_at": "2026-06-05T22:37:52"
+  },
+  "SPEEDING/low/07": {
+    "event": "SPEEDING",
+    "severity": "low",
+    "slot": 7,
+    "message": "Ease it back a touch, Donny, no need rush.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\low\\speeding_low_07.wav",
+    "updated_at": "2026-06-05T22:38:16"
+  },
+  "SPEEDING/low/08": {
+    "event": "SPEEDING",
+    "severity": "low",
+    "slot": 8,
+    "message": "Ease it back a notch, Donny!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\low\\speeding_low_08.wav",
+    "updated_at": "2026-06-05T22:38:34"
+  },
+  "SPEEDING/low/09": {
+    "event": "SPEEDING",
+    "severity": "low",
+    "slot": 9,
+    "message": "Back off the pace, Donny, I'm gettin' a bit anxious.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\low\\speeding_low_09.wav",
+    "updated_at": "2026-06-05T22:39:01"
+  },
+  "SPEEDING/low/10": {
+    "event": "SPEEDING",
+    "severity": "low",
+    "slot": 10,
+    "message": "Easy does it, Donny, no need to rush the run.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\low\\speeding_low_10.wav",
+    "updated_at": "2026-06-05T22:39:26"
+  },
+  "SPEEDING/medium/03": {
+    "event": "SPEEDING",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Easy does it, Donny, you're goin' a bit too fast!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\medium\\speeding_medium_03.wav",
+    "updated_at": "2026-06-05T22:40:30"
+  },
+  "SPEEDING/medium/04": {
+    "event": "SPEEDING",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Easy now, Donnys! Slow down a bit, yeah?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\medium\\speeding_medium_04.wav",
+    "updated_at": "2026-06-05T22:40:53"
+  },
+  "SPEEDING/medium/05": {
+    "event": "SPEEDING",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Easy as pie, slow down a bit!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\medium\\speeding_medium_05.wav",
+    "updated_at": "2026-06-05T22:41:16"
+  },
+  "SPEEDING/medium/06": {
+    "event": "SPEEDING",
+    "severity": "medium",
+    "slot": 6,
+    "message": "Easy as, slow down a bit.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\medium\\speeding_medium_06.wav",
+    "updated_at": "2026-06-05T22:41:32"
+  },
+  "SPEEDING/medium/07": {
+    "event": "SPEEDING",
+    "severity": "medium",
+    "slot": 7,
+    "message": "Easy does it, Donny!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\medium\\speeding_medium_07.wav",
+    "updated_at": "2026-06-05T22:41:47"
+  },
+  "SPEEDING/medium/08": {
+    "event": "SPEEDING",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Easy mate, slow down a bit.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\medium\\speeding_medium_08.wav",
+    "updated_at": "2026-06-05T22:42:05"
+  },
+  "SPEEDING/medium/09": {
+    "event": "SPEEDING",
+    "severity": "medium",
+    "slot": 9,
+    "message": "Easy as, Donny, dial it back a bit!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\medium\\speeding_medium_09.wav",
+    "updated_at": "2026-06-05T22:42:27"
+  },
+  "SPEEDING/medium/10": {
+    "event": "SPEEDING",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Easy as, mate, easy does it!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\medium\\speeding_medium_10.wav",
+    "updated_at": "2026-06-05T22:42:52"
+  },
+  "SPEEDING/high/03": {
+    "event": "SPEEDING",
+    "severity": "high",
+    "slot": 3,
+    "message": "Easy does it, Donny, you're burning petrol.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\high\\speeding_high_03.wav",
+    "updated_at": "2026-06-05T22:43:58"
+  },
+  "SPEEDING/high/04": {
+    "event": "SPEEDING",
+    "severity": "high",
+    "slot": 4,
+    "message": "Don't be bloody reckless, slow down!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\high\\speeding_high_04.wav",
+    "updated_at": "2026-06-05T22:44:16"
+  },
+  "SPEEDING/high/05": {
+    "event": "SPEEDING",
+    "severity": "high",
+    "slot": 5,
+    "message": "Donny, slow down a bit, you're gonna wear yourself out!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\high\\speeding_high_05.wav",
+    "updated_at": "2026-06-05T22:44:34"
+  },
+  "SPEEDING/high/06": {
+    "event": "SPEEDING",
+    "severity": "high",
+    "slot": 6,
+    "message": "Easy as one truck, slow down, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\high\\speeding_high_06.wav",
+    "updated_at": "2026-06-05T22:44:53"
+  },
+  "SPEEDING/high/07": {
+    "event": "SPEEDING",
+    "severity": "high",
+    "slot": 7,
+    "message": "Easy boyo, slow it down a bit!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\high\\speeding_high_07.wav",
+    "updated_at": "2026-06-05T22:45:11"
+  },
+  "SPEEDING/high/08": {
+    "event": "SPEEDING",
+    "severity": "high",
+    "slot": 8,
+    "message": "Easy up, mate, you're bloody flying!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\high\\speeding_high_08.wav",
+    "updated_at": "2026-06-05T22:45:28"
+  },
+  "SPEEDING/high/09": {
+    "event": "SPEEDING",
+    "severity": "high",
+    "slot": 9,
+    "message": "Easy does it, Donny, slow down!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\high\\speeding_high_09.wav",
+    "updated_at": "2026-06-05T22:45:46"
+  },
+  "SPEEDING/high/10": {
+    "event": "SPEEDING",
+    "severity": "high",
+    "slot": 10,
+    "message": "Gobsmacked you're gonna give the rig a heart attack!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\SPEEDING\\high\\speeding_high_10.wav",
+    "updated_at": "2026-06-05T22:46:05"
+  },
+  "CAUGHT_SPEEDING/medium/01": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Fair dinkum, Donny? Must've pushed it a bit too far.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\medium\\caught_speeding_medium_01.wav",
+    "updated_at": "2026-06-05T22:46:29"
+  },
+  "CAUGHT_SPEEDING/medium/02": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Seems like you've had a little too much enthusiasm today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\medium\\caught_speeding_medium_02.wav",
+    "updated_at": "2026-06-05T22:46:52"
+  },
+  "CAUGHT_SPEEDING/medium/03": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Fair dinkum, mate, you really took a risk this time.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\medium\\caught_speeding_medium_03.wav",
+    "updated_at": "2026-06-05T22:47:20"
+  },
+  "CAUGHT_SPEEDING/medium/04": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Donny's got a bit of a hangover look about him today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\medium\\caught_speeding_medium_04.wav",
+    "updated_at": "2026-06-05T22:47:39"
+  },
+  "CAUGHT_SPEEDING/medium/05": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Fair dinkum, Donny, you really pushed your luck this time.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\medium\\caught_speeding_medium_05.wav",
+    "updated_at": "2026-06-05T22:48:03"
+  },
+  "CAUGHT_SPEEDING/medium/06": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "medium",
+    "slot": 6,
+    "message": "Fair dinkum, you're really testin' me limits this time!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\medium\\caught_speeding_medium_06.wav",
+    "updated_at": "2026-06-05T22:48:24"
+  },
+  "CAUGHT_SPEEDING/medium/07": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "medium",
+    "slot": 7,
+    "message": "Looks like you've blown it, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\medium\\caught_speeding_medium_07.wav",
+    "updated_at": "2026-06-05T22:48:38"
+  },
+  "CAUGHT_SPEEDING/medium/08": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Mate, don't go thinking you're invincible again.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\medium\\caught_speeding_medium_08.wav",
+    "updated_at": "2026-06-05T22:48:57"
+  },
+  "CAUGHT_SPEEDING/medium/09": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "medium",
+    "slot": 9,
+    "message": "You're pushing your luck again, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\medium\\caught_speeding_medium_09.wav",
+    "updated_at": "2026-06-05T22:49:13"
+  },
+  "CAUGHT_SPEEDING/medium/10": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Fair dinkum, Donny, you've done it now.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\medium\\caught_speeding_medium_10.wav",
+    "updated_at": "2026-06-05T22:49:30"
+  },
+  "CAUGHT_SPEEDING/high/01": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "high",
+    "slot": 1,
+    "message": "You've gone and had a run-in with Dad again, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\high\\caught_speeding_high_01.wav",
+    "updated_at": "2026-06-05T22:49:48"
+  },
+  "CAUGHT_SPEEDING/high/02": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "high",
+    "slot": 2,
+    "message": "Donny, you've gone and done it again!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\high\\caught_speeding_high_02.wav",
+    "updated_at": "2026-06-05T22:50:02"
+  },
+  "CAUGHT_SPEEDING/high/03": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "high",
+    "slot": 3,
+    "message": "Donny, you just lost your lunch money!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\high\\caught_speeding_high_03.wav",
+    "updated_at": "2026-06-05T22:50:17"
+  },
+  "CAUGHT_SPEEDING/high/04": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "high",
+    "slot": 4,
+    "message": "Alright mate, you're lookin' for a good thrashin', aren't ya?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\high\\caught_speeding_high_04.wav",
+    "updated_at": "2026-06-05T22:50:38"
+  },
+  "CAUGHT_SPEEDING/high/05": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "high",
+    "slot": 5,
+    "message": "Donny, you're gonna need a longer chat, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\high\\caught_speeding_high_05.wav",
+    "updated_at": "2026-06-05T22:51:00"
+  },
+  "CAUGHT_SPEEDING/high/06": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "high",
+    "slot": 6,
+    "message": "You're bloody well done for that, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\high\\caught_speeding_high_06.wav",
+    "updated_at": "2026-06-05T22:51:14"
+  },
+  "CAUGHT_SPEEDING/high/07": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "high",
+    "slot": 7,
+    "message": "You're a bloody idiot, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\high\\caught_speeding_high_07.wav",
+    "updated_at": "2026-06-05T22:51:30"
+  },
+  "CAUGHT_SPEEDING/high/08": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "high",
+    "slot": 8,
+    "message": "Alright, mate, that one's gone sideways.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\high\\caught_speeding_high_08.wav",
+    "updated_at": "2026-06-05T22:51:48"
+  },
+  "CAUGHT_SPEEDING/high/09": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "high",
+    "slot": 9,
+    "message": "Donny, you're out for a while.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\high\\caught_speeding_high_09.wav",
+    "updated_at": "2026-06-05T22:52:00"
+  },
+  "CAUGHT_SPEEDING/high/10": {
+    "event": "CAUGHT_SPEEDING",
+    "severity": "high",
+    "slot": 10,
+    "message": "You're still in trouble, mate?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CAUGHT_SPEEDING\\high\\caught_speeding_high_10.wav",
+    "updated_at": "2026-06-05T22:52:13"
+  },
+  "LOW_FUEL/low/01": {
+    "event": "LOW_FUEL",
+    "severity": "low",
+    "slot": 1,
+    "message": "Gotta start looking for a service stop soon, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\low\\low_fuel_low_01.wav",
+    "updated_at": "2026-06-05T22:52:33"
+  },
+  "LOW_FUEL/low/02": {
+    "event": "LOW_FUEL",
+    "severity": "low",
+    "slot": 2,
+    "message": "Donny, time for a fuel stop, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\low\\low_fuel_low_02.wav",
+    "updated_at": "2026-06-05T22:52:49"
+  },
+  "LOW_FUEL/low/03": {
+    "event": "LOW_FUEL",
+    "severity": "low",
+    "slot": 3,
+    "message": "Need a top-up, Donny, pronto!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\low\\low_fuel_low_03.wav",
+    "updated_at": "2026-06-05T22:53:06"
+  },
+  "LOW_FUEL/low/04": {
+    "event": "LOW_FUEL",
+    "severity": "low",
+    "slot": 4,
+    "message": "Fuel's running low, need to refuel soon, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\low\\low_fuel_low_04.wav",
+    "updated_at": "2026-06-05T22:53:29"
+  },
+  "LOW_FUEL/low/05": {
+    "event": "LOW_FUEL",
+    "severity": "low",
+    "slot": 5,
+    "message": "Fuel's running low, gotta stop soon, Donn.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\low\\low_fuel_low_05.wav",
+    "updated_at": "2026-06-05T22:53:48"
+  },
+  "LOW_FUEL/low/06": {
+    "event": "LOW_FUEL",
+    "severity": "low",
+    "slot": 6,
+    "message": "Fuel's running low, need a top-up soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\low\\low_fuel_low_06.wav",
+    "updated_at": "2026-06-05T22:54:06"
+  },
+  "LOW_FUEL/low/07": {
+    "event": "LOW_FUEL",
+    "severity": "low",
+    "slot": 7,
+    "message": "Fuel's gettin' pretty light, need to refuel soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\low\\low_fuel_low_07.wav",
+    "updated_at": "2026-06-05T22:54:26"
+  },
+  "LOW_FUEL/low/08": {
+    "event": "LOW_FUEL",
+    "severity": "low",
+    "slot": 8,
+    "message": "Gotta fill 'er up soon, Donn.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\low\\low_fuel_low_08.wav",
+    "updated_at": "2026-06-05T22:54:42"
+  },
+  "LOW_FUEL/low/09": {
+    "event": "LOW_FUEL",
+    "severity": "low",
+    "slot": 9,
+    "message": "Fuel's running low, don't wanna run out yet.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\low\\low_fuel_low_09.wav",
+    "updated_at": "2026-06-05T22:55:00"
+  },
+  "LOW_FUEL/low/10": {
+    "event": "LOW_FUEL",
+    "severity": "low",
+    "slot": 10,
+    "message": "Fuel's getting a bit hairy, Donny, time for a fill-up.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\low\\low_fuel_low_10.wav",
+    "updated_at": "2026-06-05T22:55:22"
+  },
+  "LOW_FUEL/medium/03": {
+    "event": "LOW_FUEL",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Fuel's runnin' low, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\medium\\low_fuel_medium_03.wav",
+    "updated_at": "2026-06-05T22:56:15"
+  },
+  "LOW_FUEL/medium/04": {
+    "event": "LOW_FUEL",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Fuel's running low, mate, need a fill-up soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\medium\\low_fuel_medium_04.wav",
+    "updated_at": "2026-06-05T22:56:35"
+  },
+  "LOW_FUEL/medium/05": {
+    "event": "LOW_FUEL",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Fuel's running low, gonna need a top-up soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\medium\\low_fuel_medium_05.wav",
+    "updated_at": "2026-06-05T22:57:01"
+  },
+  "LOW_FUEL/medium/06": {
+    "event": "LOW_FUEL",
+    "severity": "medium",
+    "slot": 6,
+    "message": "Fuel's running on fumes, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\medium\\low_fuel_medium_06.wav",
+    "updated_at": "2026-06-05T22:57:22"
+  },
+  "LOW_FUEL/medium/07": {
+    "event": "LOW_FUEL",
+    "severity": "medium",
+    "slot": 7,
+    "message": "Fuel's running low, mate, need a fill-up soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\medium\\low_fuel_medium_07.wav",
+    "updated_at": "2026-06-05T22:57:43"
+  },
+  "LOW_FUEL/medium/08": {
+    "event": "LOW_FUEL",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Fuel's running low, need to find a pit soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\medium\\low_fuel_medium_08.wav",
+    "updated_at": "2026-06-05T22:58:04"
+  },
+  "LOW_FUEL/medium/09": {
+    "event": "LOW_FUEL",
+    "severity": "medium",
+    "slot": 9,
+    "message": "Fuel's runnin' low, Donny, gotta find a stop.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\medium\\low_fuel_medium_09.wav",
+    "updated_at": "2026-06-05T22:58:24"
+  },
+  "LOW_FUEL/medium/10": {
+    "event": "LOW_FUEL",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Fuel's running low, Donny, need a top-up soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\LOW_FUEL\\medium\\low_fuel_medium_10.wav",
+    "updated_at": "2026-06-05T22:58:46"
+  },
+  "CRITICAL_FUEL/critical/03": {
+    "event": "CRITICAL_FUEL",
+    "severity": "critical",
+    "slot": 3,
+    "message": "Low fuel, need a fill-up, pronto, Donny!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CRITICAL_FUEL\\critical\\critical_fuel_critical_03.wav",
+    "updated_at": "2026-06-05T22:59:57"
+  },
+  "CRITICAL_FUEL/critical/04": {
+    "event": "CRITICAL_FUEL",
+    "severity": "critical",
+    "slot": 4,
+    "message": "Gotta find me a bloody fuel stop, pronto!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CRITICAL_FUEL\\critical\\critical_fuel_critical_04.wav",
+    "updated_at": "2026-06-05T23:00:16"
+  },
+  "CRITICAL_FUEL/critical/05": {
+    "event": "CRITICAL_FUEL",
+    "severity": "critical",
+    "slot": 5,
+    "message": "Mate, fuel's gone dry, gotta find some ASAP!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CRITICAL_FUEL\\critical\\critical_fuel_critical_05.wav",
+    "updated_at": "2026-06-05T23:00:38"
+  },
+  "CRITICAL_FUEL/critical/06": {
+    "event": "CRITICAL_FUEL",
+    "severity": "critical",
+    "slot": 6,
+    "message": "We're running on fumes here, Donny!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CRITICAL_FUEL\\critical\\critical_fuel_critical_06.wav",
+    "updated_at": "2026-06-05T23:00:53"
+  },
+  "CRITICAL_FUEL/critical/07": {
+    "event": "CRITICAL_FUEL",
+    "severity": "critical",
+    "slot": 7,
+    "message": "Need a fill-up pronto, Donny!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CRITICAL_FUEL\\critical\\critical_fuel_critical_07.wav",
+    "updated_at": "2026-06-05T23:01:07"
+  },
+  "CRITICAL_FUEL/critical/08": {
+    "event": "CRITICAL_FUEL",
+    "severity": "critical",
+    "slot": 8,
+    "message": "Need some fuel, pronto, can't run on fumes!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CRITICAL_FUEL\\critical\\critical_fuel_critical_08.wav",
+    "updated_at": "2026-06-05T23:01:26"
+  },
+  "CRITICAL_FUEL/critical/09": {
+    "event": "CRITICAL_FUEL",
+    "severity": "critical",
+    "slot": 9,
+    "message": "Need fuel ASAP, can't run on fumes here.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CRITICAL_FUEL\\critical\\critical_fuel_critical_09.wav",
+    "updated_at": "2026-06-05T23:01:50"
+  },
+  "CRITICAL_FUEL/critical/10": {
+    "event": "CRITICAL_FUEL",
+    "severity": "critical",
+    "slot": 10,
+    "message": "You're really stretchin' it now, old son, better find diesel soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\CRITICAL_FUEL\\critical\\critical_fuel_critical_10.wav",
+    "updated_at": "2026-06-09T22:14:53"
+  },
+  "COLLISION/low/01": {
+    "event": "COLLISION",
+    "severity": "low",
+    "slot": 1,
+    "message": "Got a wee bump, Donny, truck's runnin' still though.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\low\\collision_low_01.wav",
+    "updated_at": "2026-06-05T23:02:30"
+  },
+  "COLLISION/low/02": {
+    "event": "COLLISION",
+    "severity": "low",
+    "slot": 2,
+    "message": "Truck's taken a bash, what'd I tell ya?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\low\\collision_low_02.wav",
+    "updated_at": "2026-06-05T23:02:47"
+  },
+  "COLLISION/low/03": {
+    "event": "COLLISION",
+    "severity": "low",
+    "slot": 3,
+    "message": "Just took a little knock, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\low\\collision_low_03.wav",
+    "updated_at": "2026-06-05T23:03:02"
+  },
+  "COLLISION/low/04": {
+    "event": "COLLISION",
+    "severity": "low",
+    "slot": 4,
+    "message": "Bit of a whack-up just had, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\low\\collision_low_04.wav",
+    "updated_at": "2026-06-05T23:03:18"
+  },
+  "COLLISION/low/05": {
+    "event": "COLLISION",
+    "severity": "low",
+    "slot": 5,
+    "message": "Just had a little ding, but she's still runnin'.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\low\\collision_low_05.wav",
+    "updated_at": "2026-06-05T23:03:36"
+  },
+  "COLLISION/low/06": {
+    "event": "COLLISION",
+    "severity": "low",
+    "slot": 6,
+    "message": "Knocked up a bit, but still runnin' mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\low\\collision_low_06.wav",
+    "updated_at": "2026-06-05T23:03:53"
+  },
+  "COLLISION/low/07": {
+    "event": "COLLISION",
+    "severity": "low",
+    "slot": 7,
+    "message": "Just had a bit of a bump, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\low\\collision_low_07.wav",
+    "updated_at": "2026-06-05T23:04:08"
+  },
+  "COLLISION/low/08": {
+    "event": "COLLISION",
+    "severity": "low",
+    "slot": 8,
+    "message": "Truck's taken a bit of a bash today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\low\\collision_low_08.wav",
+    "updated_at": "2026-06-05T23:04:27"
+  },
+  "COLLISION/low/09": {
+    "event": "COLLISION",
+    "severity": "low",
+    "slot": 9,
+    "message": "Just had a bit of a bash, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\low\\collision_low_09.wav",
+    "updated_at": "2026-06-05T23:04:43"
+  },
+  "COLLISION/low/10": {
+    "event": "COLLISION",
+    "severity": "low",
+    "slot": 10,
+    "message": "Just had a bump, Donny, truck's okay though.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\low\\collision_low_10.wav",
+    "updated_at": "2026-06-05T23:05:02"
+  },
+  "COLLISION/medium/03": {
+    "event": "COLLISION",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Blimey, truck's taken a bash, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\medium\\collision_medium_03.wav",
+    "updated_at": "2026-06-05T23:05:54"
+  },
+  "COLLISION/medium/04": {
+    "event": "COLLISION",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Truck's taken a knock, sounds like Donny!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\medium\\collision_medium_04.wav",
+    "updated_at": "2026-06-05T23:06:12"
+  },
+  "COLLISION/medium/05": {
+    "event": "COLLISION",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Truck's taken a bash, mate, we're lookin' a bit rough.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\medium\\collision_medium_05.wav",
+    "updated_at": "2026-06-05T23:06:31"
+  },
+  "COLLISION/medium/06": {
+    "event": "COLLISION",
+    "severity": "medium",
+    "slot": 6,
+    "message": "That's a decent knock, Donny, reckon the workshop heard that from here.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\medium\\collision_medium_06.wav",
+    "updated_at": "2026-06-09T22:14:26"
+  },
+  "COLLISION/medium/07": {
+    "event": "COLLISION",
+    "severity": "medium",
+    "slot": 7,
+    "message": "Donny, bloody truck's taken a bash!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\medium\\collision_medium_07.wav",
+    "updated_at": "2026-06-05T23:07:02"
+  },
+  "COLLISION/medium/08": {
+    "event": "COLLISION",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Donny, looks like we've had a bit of a bash!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\medium\\collision_medium_08.wav",
+    "updated_at": "2026-06-05T23:07:20"
+  },
+  "COLLISION/medium/09": {
+    "event": "COLLISION",
+    "severity": "medium",
+    "slot": 9,
+    "message": "Looks like we've had a bit of a bash today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\medium\\collision_medium_09.wav",
+    "updated_at": "2026-06-05T23:07:38"
+  },
+  "COLLISION/medium/10": {
+    "event": "COLLISION",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Donny, just a dent, nothing too serious then?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\medium\\collision_medium_10.wav",
+    "updated_at": "2026-06-05T23:07:59"
+  },
+  "COLLISION/high/01": {
+    "event": "COLLISION",
+    "severity": "high",
+    "slot": 1,
+    "message": "Truck's taken a bloody bash, what's the damage?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\high\\collision_high_01.wav",
+    "updated_at": "2026-06-05T23:08:21"
+  },
+  "COLLISION/high/02": {
+    "event": "COLLISION",
+    "severity": "high",
+    "slot": 2,
+    "message": "Bloody hell, we've had a fair knock!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\high\\collision_high_02.wav",
+    "updated_at": "2026-06-05T23:08:37"
+  },
+  "COLLISION/high/03": {
+    "event": "COLLISION",
+    "severity": "high",
+    "slot": 3,
+    "message": "Truck's taken a hit, need me out here pronto!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\high\\collision_high_03.wav",
+    "updated_at": "2026-06-05T23:08:58"
+  },
+  "COLLISION/high/04": {
+    "event": "COLLISION",
+    "severity": "high",
+    "slot": 4,
+    "message": "Truck's taken a bash, mate, don't know what happened.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\high\\collision_high_04.wav",
+    "updated_at": "2026-06-05T23:09:17"
+  },
+  "COLLISION/high/05": {
+    "event": "COLLISION",
+    "severity": "high",
+    "slot": 5,
+    "message": "Alright, don't panic, just sit tight, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\high\\collision_high_05.wav",
+    "updated_at": "2026-06-05T23:09:36"
+  },
+  "COLLISION/high/06": {
+    "event": "COLLISION",
+    "severity": "high",
+    "slot": 6,
+    "message": "Looks like we've had a bit of a bash today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\high\\collision_high_06.wav",
+    "updated_at": "2026-06-05T23:09:55"
+  },
+  "COLLISION/high/07": {
+    "event": "COLLISION",
+    "severity": "high",
+    "slot": 7,
+    "message": "Donny, we've had a bit of a bash.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\high\\collision_high_07.wav",
+    "updated_at": "2026-06-05T23:10:10"
+  },
+  "COLLISION/high/08": {
+    "event": "COLLISION",
+    "severity": "high",
+    "slot": 8,
+    "message": "Shit's gone wrong, mate, truck's taken a bloody bash!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\high\\collision_high_08.wav",
+    "updated_at": "2026-06-05T23:10:31"
+  },
+  "COLLISION/high/09": {
+    "event": "COLLISION",
+    "severity": "high",
+    "slot": 9,
+    "message": "Truck's taken a bash, you best come take a look.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\high\\collision_high_09.wav",
+    "updated_at": "2026-06-05T23:10:50"
+  },
+  "COLLISION/high/10": {
+    "event": "COLLISION",
+    "severity": "high",
+    "slot": 10,
+    "message": "Trouble's here, Donny, need you pronto!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\COLLISION\\high\\collision_high_10.wav",
+    "updated_at": "2026-06-05T23:11:12"
+  },
+  "TRAILER_DAMAGE/low/01": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "low",
+    "slot": 1,
+    "message": "Back end's taken a bit of a bash, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\low\\trailer_damage_low_01.wav",
+    "updated_at": "2026-06-05T23:11:29"
+  },
+  "TRAILER_DAMAGE/low/02": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "low",
+    "slot": 2,
+    "message": "Back end's taken a bit of a bash, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\low\\trailer_damage_low_02.wav",
+    "updated_at": "2026-06-05T23:11:48"
+  },
+  "TRAILER_DAMAGE/low/03": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "low",
+    "slot": 3,
+    "message": "Just got a little dent in the back end, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\low\\trailer_damage_low_03.wav",
+    "updated_at": "2026-06-05T23:12:07"
+  },
+  "TRAILER_DAMAGE/low/04": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "low",
+    "slot": 4,
+    "message": "Just had a little nudge from the back end, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\low\\trailer_damage_low_04.wav",
+    "updated_at": "2026-06-05T23:12:25"
+  },
+  "TRAILER_DAMAGE/low/05": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "low",
+    "slot": 5,
+    "message": "Mate, back end's taken a hit today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\low\\trailer_damage_low_05.wav",
+    "updated_at": "2026-06-05T23:12:43"
+  },
+  "TRAILER_DAMAGE/low/06": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "low",
+    "slot": 6,
+    "message": "Banged up a bit, Donny, back's not perfect.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\low\\trailer_damage_low_06.wav",
+    "updated_at": "2026-06-05T23:13:02"
+  },
+  "TRAILER_DAMAGE/low/07": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "low",
+    "slot": 7,
+    "message": "Just got a bit of a thud off the back end.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\low\\trailer_damage_low_07.wav",
+    "updated_at": "2026-06-05T23:13:22"
+  },
+  "TRAILER_DAMAGE/low/08": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "low",
+    "slot": 8,
+    "message": "Just got a bit of a tap there, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\low\\trailer_damage_low_08.wav",
+    "updated_at": "2026-06-05T23:13:37"
+  },
+  "TRAILER_DAMAGE/low/09": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "low",
+    "slot": 9,
+    "message": "Just had a little bounce back, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\low\\trailer_damage_low_09.wav",
+    "updated_at": "2026-06-05T23:13:52"
+  },
+  "TRAILER_DAMAGE/low/10": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "low",
+    "slot": 10,
+    "message": "Lost a bit of back there, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\low\\trailer_damage_low_10.wav",
+    "updated_at": "2026-06-05T23:14:09"
+  },
+  "TRAILER_DAMAGE/medium/01": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Rattled more than my patience mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\medium\\trailer_damage_medium_01.wav",
+    "updated_at": "2026-06-05T23:14:25"
+  },
+  "TRAILER_DAMAGE/medium/02": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Back end's taken a bit of a bash.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\medium\\trailer_damage_medium_02.wav",
+    "updated_at": "2026-06-05T23:14:41"
+  },
+  "TRAILER_DAMAGE/medium/03": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Donny, you're gonna have to help me out here.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\medium\\trailer_damage_medium_03.wav",
+    "updated_at": "2026-06-05T23:14:57"
+  },
+  "TRAILER_DAMAGE/medium/04": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Donny, got a bit of a bash on the back end there.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\medium\\trailer_damage_medium_04.wav",
+    "updated_at": "2026-06-05T23:15:15"
+  },
+  "TRAILER_DAMAGE/medium/05": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Got a bit of a hang-up on the back end, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\medium\\trailer_damage_medium_05.wav",
+    "updated_at": "2026-06-05T23:15:33"
+  },
+  "TRAILER_DAMAGE/medium/06": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "medium",
+    "slot": 6,
+    "message": "Donny, that's gonna be a pretty ugly dent.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\medium\\trailer_damage_medium_06.wav",
+    "updated_at": "2026-06-05T23:15:50"
+  },
+  "TRAILER_DAMAGE/medium/07": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "medium",
+    "slot": 7,
+    "message": "Donny, bloody back end's taken a bash.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\medium\\trailer_damage_medium_07.wav",
+    "updated_at": "2026-06-05T23:16:08"
+  },
+  "TRAILER_DAMAGE/medium/08": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Mate's arse is gonna be a bit sore today!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\medium\\trailer_damage_medium_08.wav",
+    "updated_at": "2026-06-05T23:16:29"
+  },
+  "TRAILER_DAMAGE/medium/09": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "medium",
+    "slot": 9,
+    "message": "Lost a bit of arse-end flair, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\medium\\trailer_damage_medium_09.wav",
+    "updated_at": "2026-06-05T23:16:45"
+  },
+  "TRAILER_DAMAGE/medium/10": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Gotta sort this before it's a bigger mess.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\medium\\trailer_damage_medium_10.wav",
+    "updated_at": "2026-06-05T23:17:05"
+  },
+  "TRAILER_DAMAGE/high/01": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "high",
+    "slot": 1,
+    "message": "Back end's taken a nasty hit, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\high\\trailer_damage_high_01.wav",
+    "updated_at": "2026-06-05T23:17:25"
+  },
+  "TRAILER_DAMAGE/high/02": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "high",
+    "slot": 2,
+    "message": "Blimey, back end's got a fair bit of damage.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\high\\trailer_damage_high_02.wav",
+    "updated_at": "2026-06-05T23:17:43"
+  },
+  "TRAILER_DAMAGE/high/03": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "high",
+    "slot": 3,
+    "message": "Donny, got me back end feeling like lead weights.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\high\\trailer_damage_high_03.wav",
+    "updated_at": "2026-06-05T23:18:05"
+  },
+  "TRAILER_DAMAGE/high/04": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "high",
+    "slot": 4,
+    "message": "Gutted, mate - back end's gone sideways again.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\high\\trailer_damage_high_04.wav",
+    "updated_at": "2026-06-05T23:18:29"
+  },
+  "TRAILER_DAMAGE/high/05": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "high",
+    "slot": 5,
+    "message": "Back end's taken a solid bash, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\high\\trailer_damage_high_05.wav",
+    "updated_at": "2026-06-05T23:18:45"
+  },
+  "TRAILER_DAMAGE/high/06": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "high",
+    "slot": 6,
+    "message": "This truck's taken a bloody good bash.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\high\\trailer_damage_high_06.wav",
+    "updated_at": "2026-06-05T23:19:04"
+  },
+  "TRAILER_DAMAGE/high/07": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "high",
+    "slot": 7,
+    "message": "Donny, I've just gone and dented the arse end hard.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\high\\trailer_damage_high_07.wav",
+    "updated_at": "2026-06-05T23:19:24"
+  },
+  "TRAILER_DAMAGE/high/08": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "high",
+    "slot": 8,
+    "message": "Looks like we've got a bit of damage here.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\high\\trailer_damage_high_08.wav",
+    "updated_at": "2026-06-05T23:19:42"
+  },
+  "TRAILER_DAMAGE/high/09": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "high",
+    "slot": 9,
+    "message": "Donny, back end's taken a fair bash!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\high\\trailer_damage_high_09.wav",
+    "updated_at": "2026-06-05T23:19:59"
+  },
+  "TRAILER_DAMAGE/high/10": {
+    "event": "TRAILER_DAMAGE",
+    "severity": "high",
+    "slot": 10,
+    "message": "Donny, mate, rear end's bloody well smashed!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\TRAILER_DAMAGE\\high\\trailer_damage_high_10.wav",
+    "updated_at": "2026-06-05T23:20:18"
+  },
+  "MAJOR_DAMAGE/critical/01": {
+    "event": "MAJOR_DAMAGE",
+    "severity": "critical",
+    "slot": 1,
+    "message": "Donny, we're hosed, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\MAJOR_DAMAGE\\critical\\major_damage_critical_01.wav",
+    "updated_at": "2026-06-05T23:20:32"
+  },
+  "MAJOR_DAMAGE/critical/02": {
+    "event": "MAJOR_DAMAGE",
+    "severity": "critical",
+    "slot": 2,
+    "message": "Troubles with the old girl, mate, she's shot.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\MAJOR_DAMAGE\\critical\\major_damage_critical_02.wav",
+    "updated_at": "2026-06-05T23:20:49"
+  },
+  "MAJOR_DAMAGE/critical/03": {
+    "event": "MAJOR_DAMAGE",
+    "severity": "critical",
+    "slot": 3,
+    "message": "Can't fix it here, don's come get me.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\MAJOR_DAMAGE\\critical\\major_damage_critical_03.wav",
+    "updated_at": "2026-06-05T23:21:06"
+  },
+  "MAJOR_DAMAGE/critical/04": {
+    "event": "MAJOR_DAMAGE",
+    "severity": "critical",
+    "slot": 4,
+    "message": "Need a tow mate, Donny, truck's gone dark.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\MAJOR_DAMAGE\\critical\\major_damage_critical_04.wav",
+    "updated_at": "2026-06-05T23:21:32"
+  },
+  "MAJOR_DAMAGE/critical/05": {
+    "event": "MAJOR_DAMAGE",
+    "severity": "critical",
+    "slot": 5,
+    "message": "Truck's shot, mate, I'm losing power fast.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\MAJOR_DAMAGE\\critical\\major_damage_critical_05.wav",
+    "updated_at": "2026-06-05T23:21:51"
+  },
+  "MAJOR_DAMAGE/critical/06": {
+    "event": "MAJOR_DAMAGE",
+    "severity": "critical",
+    "slot": 6,
+    "message": "Can't run her like this, mate, gotta fix it ASAP.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\MAJOR_DAMAGE\\critical\\major_damage_critical_06.wav",
+    "updated_at": "2026-06-05T23:22:12"
+  },
+  "MAJOR_DAMAGE/critical/07": {
+    "event": "MAJOR_DAMAGE",
+    "severity": "critical",
+    "slot": 7,
+    "message": "Donny, truck's a basket case, need a hand!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\MAJOR_DAMAGE\\critical\\major_damage_critical_07.wav",
+    "updated_at": "2026-06-05T23:22:31"
+  },
+  "MAJOR_DAMAGE/critical/08": {
+    "event": "MAJOR_DAMAGE",
+    "severity": "critical",
+    "slot": 8,
+    "message": "Donny, truck's gone arse up, mate!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\MAJOR_DAMAGE\\critical\\major_damage_critical_08.wav",
+    "updated_at": "2026-06-05T23:22:54"
+  },
+  "MAJOR_DAMAGE/critical/09": {
+    "event": "MAJOR_DAMAGE",
+    "severity": "critical",
+    "slot": 9,
+    "message": "Need a lift, mate, she's giving me grief.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\MAJOR_DAMAGE\\critical\\major_damage_critical_09.wav",
+    "updated_at": "2026-06-05T23:23:11"
+  },
+  "MAJOR_DAMAGE/critical/10": {
+    "event": "MAJOR_DAMAGE",
+    "severity": "critical",
+    "slot": 10,
+    "message": "Donny, I'm buggered, truck's on its last legs!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\MAJOR_DAMAGE\\critical\\major_damage_critical_10.wav",
+    "updated_at": "2026-06-05T23:23:33"
+  },
+  "DAMAGE/low/01": {
+    "event": "DAMAGE",
+    "severity": "low",
+    "slot": 1,
+    "message": "Donny, truck's got a bit of a growl on it.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\low\\damage_low_01.wav",
+    "updated_at": "2026-06-05T23:23:51"
+  },
+  "DAMAGE/low/02": {
+    "event": "DAMAGE",
+    "severity": "low",
+    "slot": 2,
+    "message": "Donny, truck sounds like it's having a lazy Sunday.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\low\\damage_low_02.wav",
+    "updated_at": "2026-06-05T23:24:12"
+  },
+  "DAMAGE/low/03": {
+    "event": "DAMAGE",
+    "severity": "low",
+    "slot": 3,
+    "message": "Truck's been whining like a kitten for me.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\low\\damage_low_03.wav",
+    "updated_at": "2026-06-05T23:24:29"
+  },
+  "DAMAGE/low/04": {
+    "event": "DAMAGE",
+    "severity": "low",
+    "slot": 4,
+    "message": "Truck sounds like it's having a midlife crisis, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\low\\damage_low_04.wav",
+    "updated_at": "2026-06-05T23:24:52"
+  },
+  "DAMAGE/low/05": {
+    "event": "DAMAGE",
+    "severity": "low",
+    "slot": 5,
+    "message": "Sounds like she's got a bit of a scowl on her.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\low\\damage_low_05.wav",
+    "updated_at": "2026-06-05T23:25:12"
+  },
+  "DAMAGE/low/06": {
+    "event": "DAMAGE",
+    "severity": "low",
+    "slot": 6,
+    "message": "Truck's feeling a bit flat, Donnynow?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\low\\damage_low_06.wav",
+    "updated_at": "2026-06-05T23:25:28"
+  },
+  "DAMAGE/low/07": {
+    "event": "DAMAGE",
+    "severity": "low",
+    "slot": 7,
+    "message": "Truck's sounding a bit rough around the edges today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\low\\damage_low_07.wav",
+    "updated_at": "2026-06-05T23:25:49"
+  },
+  "DAMAGE/low/08": {
+    "event": "DAMAGE",
+    "severity": "low",
+    "slot": 8,
+    "message": "Sounds like the old girl's having a right groaner today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\low\\damage_low_08.wav",
+    "updated_at": "2026-06-05T23:26:11"
+  },
+  "DAMAGE/low/09": {
+    "event": "DAMAGE",
+    "severity": "low",
+    "slot": 9,
+    "message": "Truck sounds a bit flat and bored today, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\low\\damage_low_09.wav",
+    "updated_at": "2026-06-05T23:26:29"
+  },
+  "DAMAGE/low/10": {
+    "event": "DAMAGE",
+    "severity": "low",
+    "slot": 10,
+    "message": "Donny, truck's been actin' up, feelin' a bit off today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\low\\damage_low_10.wav",
+    "updated_at": "2026-06-05T23:26:56"
+  },
+  "DAMAGE/medium/01": {
+    "event": "DAMAGE",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Sounds like the old girl's got a bit of a grumble on.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\medium\\damage_medium_01.wav",
+    "updated_at": "2026-06-05T23:27:17"
+  },
+  "DAMAGE/medium/02": {
+    "event": "DAMAGE",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Blud, truck's got a grumble in its belly.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\medium\\damage_medium_02.wav",
+    "updated_at": "2026-06-05T23:27:34"
+  },
+  "DAMAGE/medium/03": {
+    "event": "DAMAGE",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Truck's got a bit of a grumble goin' on, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\medium\\damage_medium_03.wav",
+    "updated_at": "2026-06-05T23:27:53"
+  },
+  "DAMAGE/medium/04": {
+    "event": "DAMAGE",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Truck's grumbling at me again, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\medium\\damage_medium_04.wav",
+    "updated_at": "2026-06-05T23:28:08"
+  },
+  "DAMAGE/medium/05": {
+    "event": "DAMAGE",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Truck's got a bit of a growl in it, Donn.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\medium\\damage_medium_05.wav",
+    "updated_at": "2026-06-05T23:28:25"
+  },
+  "DAMAGE/medium/06": {
+    "event": "DAMAGE",
+    "severity": "medium",
+    "slot": 6,
+    "message": "Sound's a bit mardy, feel like it's losing its head.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\medium\\damage_medium_06.wav",
+    "updated_at": "2026-06-05T23:28:47"
+  },
+  "DAMAGE/medium/07": {
+    "event": "DAMAGE",
+    "severity": "medium",
+    "slot": 7,
+    "message": "She's sounding a bit rough now, Donny, best nurse her home.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\medium\\damage_medium_07.wav",
+    "updated_at": "2026-06-09T22:15:15"
+  },
+  "DAMAGE/medium/08": {
+    "event": "DAMAGE",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Sound's not singing, Donny, needs a bit of TLC.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\medium\\damage_medium_08.wav",
+    "updated_at": "2026-06-05T23:29:29"
+  },
+  "DAMAGE/medium/09": {
+    "event": "DAMAGE",
+    "severity": "medium",
+    "slot": 9,
+    "message": "Truck's been growling at me for a bit now.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\medium\\damage_medium_09.wav",
+    "updated_at": "2026-06-05T23:29:47"
+  },
+  "DAMAGE/medium/10": {
+    "event": "DAMAGE",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Something's not right with her, Donn.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\medium\\damage_medium_10.wav",
+    "updated_at": "2026-06-05T23:30:05"
+  },
+  "DAMAGE/high/01": {
+    "event": "DAMAGE",
+    "severity": "high",
+    "slot": 1,
+    "message": "Mate, something don't feel right here.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\high\\damage_high_01.wav",
+    "updated_at": "2026-06-05T23:30:20"
+  },
+  "DAMAGE/high/02": {
+    "event": "DAMAGE",
+    "severity": "high",
+    "slot": 2,
+    "message": "Donny, sounds like she's got a bit of sass today!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\high\\damage_high_02.wav",
+    "updated_at": "2026-06-05T23:30:42"
+  },
+  "DAMAGE/high/03": {
+    "event": "DAMAGE",
+    "severity": "high",
+    "slot": 3,
+    "message": "Sounds like somethin's got a bad vibe in her.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\high\\damage_high_03.wav",
+    "updated_at": "2026-06-05T23:31:03"
+  },
+  "DAMAGE/high/04": {
+    "event": "DAMAGE",
+    "severity": "high",
+    "slot": 4,
+    "message": "Gotta give her a rest, mate, feels like crap.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\high\\damage_high_04.wav",
+    "updated_at": "2026-06-05T23:31:25"
+  },
+  "DAMAGE/high/05": {
+    "event": "DAMAGE",
+    "severity": "high",
+    "slot": 5,
+    "message": "Don't know what's goin' on here, sounds like bloody death!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\high\\damage_high_05.wav",
+    "updated_at": "2026-06-05T23:31:46"
+  },
+  "DAMAGE/high/06": {
+    "event": "DAMAGE",
+    "severity": "high",
+    "slot": 6,
+    "message": "Fair dinkum, feels like she's on her last breath.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\high\\damage_high_06.wav",
+    "updated_at": "2026-06-05T23:32:07"
+  },
+  "DAMAGE/high/07": {
+    "event": "DAMAGE",
+    "severity": "high",
+    "slot": 7,
+    "message": "Truck's not happy, needs a breather, pronto.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\high\\damage_high_07.wav",
+    "updated_at": "2026-06-05T23:32:27"
+  },
+  "DAMAGE/high/08": {
+    "event": "DAMAGE",
+    "severity": "high",
+    "slot": 8,
+    "message": "She's got a racket goin' on in there.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\high\\damage_high_08.wav",
+    "updated_at": "2026-06-05T23:32:44"
+  },
+  "DAMAGE/high/09": {
+    "event": "DAMAGE",
+    "severity": "high",
+    "slot": 9,
+    "message": "Sound's fiddlin' around a bit, needs a settle.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\high\\damage_high_09.wav",
+    "updated_at": "2026-06-05T23:33:02"
+  },
+  "DAMAGE/high/10": {
+    "event": "DAMAGE",
+    "severity": "high",
+    "slot": 10,
+    "message": "Donny, sounds like the old girl's got a grumble.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\DAMAGE\\high\\damage_high_10.wav",
+    "updated_at": "2026-06-05T23:33:22"
+  },
+  "REST_2H/standard/01": {
+    "event": "REST_2H",
+    "severity": "standard",
+    "slot": 1,
+    "message": "Couple hours left, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_2H\\standard\\rest_2h_standard_01.wav",
+    "updated_at": "2026-06-05T23:33:33"
+  },
+  "REST_2H/standard/02": {
+    "event": "REST_2H",
+    "severity": "standard",
+    "slot": 2,
+    "message": "Clock's ticking along, brother.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_2H\\standard\\rest_2h_standard_02.wav",
+    "updated_at": "2026-06-05T23:33:44"
+  },
+  "REST_2H/standard/03": {
+    "event": "REST_2H",
+    "severity": "standard",
+    "slot": 3,
+    "message": "Plenty of time, don't ignore it.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_2H\\standard\\rest_2h_standard_03.wav",
+    "updated_at": "2026-06-05T23:33:56"
+  },
+  "REST_2H/standard/04": {
+    "event": "REST_2H",
+    "severity": "standard",
+    "slot": 4,
+    "message": "Start thinking about a rest soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_2H\\standard\\rest_2h_standard_04.wav",
+    "updated_at": "2026-06-05T23:34:10"
+  },
+  "REST_2H/standard/05": {
+    "event": "REST_2H",
+    "severity": "standard",
+    "slot": 5,
+    "message": "Keep the clock in mind.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_2H\\standard\\rest_2h_standard_05.wav",
+    "updated_at": "2026-06-05T23:34:21"
+  },
+  "REST_2H/standard/06": {
+    "event": "REST_2H",
+    "severity": "standard",
+    "slot": 6,
+    "message": "No rush, but plan ahead.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_2H\\standard\\rest_2h_standard_06.wav",
+    "updated_at": "2026-06-05T23:34:32"
+  },
+  "REST_2H/standard/07": {
+    "event": "REST_2H",
+    "severity": "standard",
+    "slot": 7,
+    "message": "Don't leave rest too late.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_2H\\standard\\rest_2h_standard_07.wav",
+    "updated_at": "2026-06-05T23:34:42"
+  },
+  "REST_2H/standard/08": {
+    "event": "REST_2H",
+    "severity": "standard",
+    "slot": 8,
+    "message": "You've got time, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_2H\\standard\\rest_2h_standard_08.wav",
+    "updated_at": "2026-06-05T23:34:53"
+  },
+  "REST_2H/standard/09": {
+    "event": "REST_2H",
+    "severity": "standard",
+    "slot": 9,
+    "message": "Clock's behaving for now.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_2H\\standard\\rest_2h_standard_09.wav",
+    "updated_at": "2026-06-05T23:35:04"
+  },
+  "REST_2H/standard/10": {
+    "event": "REST_2H",
+    "severity": "standard",
+    "slot": 10,
+    "message": "Plan it smart, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_2H\\standard\\rest_2h_standard_10.wav",
+    "updated_at": "2026-06-05T23:35:14"
+  },
+  "REST_1H/medium/01": {
+    "event": "REST_1H",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Hour left mate, plan the stop.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_1H\\medium\\rest_1h_medium_01.wav",
+    "updated_at": "2026-06-05T23:35:28"
+  },
+  "REST_1H/medium/02": {
+    "event": "REST_1H",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Don't stretch the logbook too hard.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_1H\\medium\\rest_1h_medium_02.wav",
+    "updated_at": "2026-06-05T23:35:42"
+  },
+  "REST_1H/medium/03": {
+    "event": "REST_1H",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Rest soon, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_1H\\medium\\rest_1h_medium_03.wav",
+    "updated_at": "2026-06-05T23:35:52"
+  },
+  "REST_1H/medium/04": {
+    "event": "REST_1H",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Clock's getting serious now.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_1H\\medium\\rest_1h_medium_04.wav",
+    "updated_at": "2026-06-05T23:36:03"
+  },
+  "REST_1H/medium/05": {
+    "event": "REST_1H",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Find somewhere sensible soon, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_1H\\medium\\rest_1h_medium_05.wav",
+    "updated_at": "2026-06-05T23:36:17"
+  },
+  "REST_1H/medium/06": {
+    "event": "REST_1H",
+    "severity": "medium",
+    "slot": 6,
+    "message": "Don't play chicken with the clock.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_1H\\medium\\rest_1h_medium_06.wav",
+    "updated_at": "2026-06-05T23:36:27"
+  },
+  "REST_1H/medium/07": {
+    "event": "REST_1H",
+    "severity": "medium",
+    "slot": 7,
+    "message": "Time's getting short, brother.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_1H\\medium\\rest_1h_medium_07.wav",
+    "updated_at": "2026-06-05T23:36:38"
+  },
+  "REST_1H/medium/08": {
+    "event": "REST_1H",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Plan your rest now.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_1H\\medium\\rest_1h_medium_08.wav",
+    "updated_at": "2026-06-05T23:36:48"
+  },
+  "REST_1H/medium/09": {
+    "event": "REST_1H",
+    "severity": "medium",
+    "slot": 9,
+    "message": "Nearly time to park it.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_1H\\medium\\rest_1h_medium_09.wav",
+    "updated_at": "2026-06-05T23:36:58"
+  },
+  "REST_1H/medium/10": {
+    "event": "REST_1H",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Be smart with the clock.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_1H\\medium\\rest_1h_medium_10.wav",
+    "updated_at": "2026-06-05T23:37:09"
+  },
+  "REST_DUE/critical/01": {
+    "event": "REST_DUE",
+    "severity": "critical",
+    "slot": 1,
+    "message": "Park it up mate, time's done.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_DUE\\critical\\rest_due_critical_01.wav",
+    "updated_at": "2026-06-05T23:37:23"
+  },
+  "REST_DUE/critical/02": {
+    "event": "REST_DUE",
+    "severity": "critical",
+    "slot": 2,
+    "message": "That's enough driving for now.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_DUE\\critical\\rest_due_critical_02.wav",
+    "updated_at": "2026-06-05T23:37:35"
+  },
+  "REST_DUE/critical/03": {
+    "event": "REST_DUE",
+    "severity": "critical",
+    "slot": 3,
+    "message": "That's enough for one stretch, old son, park her up.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_DUE\\critical\\rest_due_critical_03.wav",
+    "updated_at": "2026-06-09T22:16:17"
+  },
+  "REST_DUE/critical/04": {
+    "event": "REST_DUE",
+    "severity": "critical",
+    "slot": 4,
+    "message": "Find a spot and shut her down.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_DUE\\critical\\rest_due_critical_04.wav",
+    "updated_at": "2026-06-05T23:38:03"
+  },
+  "REST_DUE/critical/05": {
+    "event": "REST_DUE",
+    "severity": "critical",
+    "slot": 5,
+    "message": "Clock says you're cooked, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_DUE\\critical\\rest_due_critical_05.wav",
+    "updated_at": "2026-06-05T23:38:15"
+  },
+  "REST_DUE/critical/06": {
+    "event": "REST_DUE",
+    "severity": "critical",
+    "slot": 6,
+    "message": "You've done your bit today.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_DUE\\critical\\rest_due_critical_06.wav",
+    "updated_at": "2026-06-05T23:38:25"
+  },
+  "REST_DUE/critical/07": {
+    "event": "REST_DUE",
+    "severity": "critical",
+    "slot": 7,
+    "message": "Time to call it, brother.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_DUE\\critical\\rest_due_critical_07.wav",
+    "updated_at": "2026-06-05T23:38:35"
+  },
+  "REST_DUE/critical/08": {
+    "event": "REST_DUE",
+    "severity": "critical",
+    "slot": 8,
+    "message": "No arguing with the clock.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_DUE\\critical\\rest_due_critical_08.wav",
+    "updated_at": "2026-06-05T23:38:46"
+  },
+  "REST_DUE/critical/09": {
+    "event": "REST_DUE",
+    "severity": "critical",
+    "slot": 9,
+    "message": "Pull up safe, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_DUE\\critical\\rest_due_critical_09.wav",
+    "updated_at": "2026-06-05T23:38:56"
+  },
+  "REST_DUE/critical/10": {
+    "event": "REST_DUE",
+    "severity": "critical",
+    "slot": 10,
+    "message": "You're done for now, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\REST_DUE\\critical\\rest_due_critical_10.wav",
+    "updated_at": "2026-06-05T23:39:07"
+  },
+  "HEADLIGHTS_OFF/standard/01": {
+    "event": "HEADLIGHTS_OFF",
+    "severity": "standard",
+    "slot": 1,
+    "message": "Can't find bloody key in this dark!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\HEADLIGHTS_OFF\\standard\\headlights_off_standard_01.wav",
+    "updated_at": "2026-06-05T23:39:27"
+  },
+  "HEADLIGHTS_OFF/standard/02": {
+    "event": "HEADLIGHTS_OFF",
+    "severity": "standard",
+    "slot": 2,
+    "message": "Mate, lights are still off in there!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\HEADLIGHTS_OFF\\standard\\headlights_off_standard_02.wav",
+    "updated_at": "2026-06-05T23:39:41"
+  },
+  "HEADLIGHTS_OFF/standard/03": {
+    "event": "HEADLIGHTS_OFF",
+    "severity": "standard",
+    "slot": 3,
+    "message": "Donny, can you give me a hand here?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\HEADLIGHTS_OFF\\standard\\headlights_off_standard_03.wav",
+    "updated_at": "2026-06-05T23:39:56"
+  },
+  "HEADLIGHTS_OFF/standard/04": {
+    "event": "HEADLIGHTS_OFF",
+    "severity": "standard",
+    "slot": 4,
+    "message": "Can't see a thing in here, Donny!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\HEADLIGHTS_OFF\\standard\\headlights_off_standard_04.wav",
+    "updated_at": "2026-06-05T23:40:15"
+  },
+  "HEADLIGHTS_OFF/standard/05": {
+    "event": "HEADLIGHTS_OFF",
+    "severity": "standard",
+    "slot": 5,
+    "message": "Can't see a thing, got the bloody lights off.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\HEADLIGHTS_OFF\\standard\\headlights_off_standard_05.wav",
+    "updated_at": "2026-06-05T23:40:33"
+  },
+  "HEADLIGHTS_OFF/standard/06": {
+    "event": "HEADLIGHTS_OFF",
+    "severity": "standard",
+    "slot": 6,
+    "message": "Fair dinkum, Donny, the lights are still off.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\HEADLIGHTS_OFF\\standard\\headlights_off_standard_06.wav",
+    "updated_at": "2026-06-05T23:40:53"
+  },
+  "HEADLIGHTS_OFF/standard/07": {
+    "event": "HEADLIGHTS_OFF",
+    "severity": "standard",
+    "slot": 7,
+    "message": "Can't drive in the dark, Donny, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\HEADLIGHTS_OFF\\standard\\headlights_off_standard_07.wav",
+    "updated_at": "2026-06-05T23:41:11"
+  },
+  "HEADLIGHTS_OFF/standard/08": {
+    "event": "HEADLIGHTS_OFF",
+    "severity": "standard",
+    "slot": 8,
+    "message": "Alright Donny, can you give me a hand?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\HEADLIGHTS_OFF\\standard\\headlights_off_standard_08.wav",
+    "updated_at": "2026-06-05T23:41:27"
+  },
+  "HEADLIGHTS_OFF/standard/09": {
+    "event": "HEADLIGHTS_OFF",
+    "severity": "standard",
+    "slot": 9,
+    "message": "Can't drive in the dark without them on, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\HEADLIGHTS_OFF\\standard\\headlights_off_standard_09.wav",
+    "updated_at": "2026-06-05T23:41:46"
+  },
+  "HEADLIGHTS_OFF/standard/10": {
+    "event": "HEADLIGHTS_OFF",
+    "severity": "standard",
+    "slot": 10,
+    "message": "Light's out, might as well be driving blind, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\HEADLIGHTS_OFF\\standard\\headlights_off_standard_10.wav",
+    "updated_at": "2026-06-05T23:42:12"
+  },
+  "PARK_BRAKE_MOVING/medium/01": {
+    "event": "PARK_BRAKE_MOVING",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Truck's pulling to one side, feels like it's stuck.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\PARK_BRAKE_MOVING\\medium\\park_brake_moving_medium_01.wav",
+    "updated_at": "2026-06-05T23:42:35"
+  },
+  "PARK_BRAKE_MOVING/medium/02": {
+    "event": "PARK_BRAKE_MOVING",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Truck's pulling to one side again, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\PARK_BRAKE_MOVING\\medium\\park_brake_moving_medium_02.wav",
+    "updated_at": "2026-06-05T23:42:53"
+  },
+  "PARK_BRAKE_MOVING/medium/03": {
+    "event": "PARK_BRAKE_MOVING",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Truck's got some weight on it, Donn'y!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\PARK_BRAKE_MOVING\\medium\\park_brake_moving_medium_03.wav",
+    "updated_at": "2026-06-05T23:43:09"
+  },
+  "PARK_BRAKE_MOVING/medium/04": {
+    "event": "PARK_BRAKE_MOVING",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Donny, sounds like the big fella's got some sand in 'im.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\PARK_BRAKE_MOVING\\medium\\park_brake_moving_medium_04.wav",
+    "updated_at": "2026-06-05T23:43:36"
+  },
+  "PARK_BRAKE_MOVING/medium/05": {
+    "event": "PARK_BRAKE_MOVING",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Truck's playin' up, don't know what's the holdup.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\PARK_BRAKE_MOVING\\medium\\park_brake_moving_medium_05.wav",
+    "updated_at": "2026-06-05T23:43:56"
+  },
+  "PARK_BRAKE_MOVING/medium/06": {
+    "event": "PARK_BRAKE_MOVING",
+    "severity": "medium",
+    "slot": 6,
+    "message": "Can't get the weight shifting, Donny, feels like lead.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\PARK_BRAKE_MOVING\\medium\\park_brake_moving_medium_06.wav",
+    "updated_at": "2026-06-05T23:44:19"
+  },
+  "PARK_BRAKE_MOVING/medium/07": {
+    "event": "PARK_BRAKE_MOVING",
+    "severity": "medium",
+    "slot": 7,
+    "message": "Got something dragging on the trailer, Donn.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\PARK_BRAKE_MOVING\\medium\\park_brake_moving_medium_07.wav",
+    "updated_at": "2026-06-05T23:44:36"
+  },
+  "PARK_BRAKE_MOVING/medium/08": {
+    "event": "PARK_BRAKE_MOVING",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Blimey, Donny, got a bit of drag goin' on here!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\PARK_BRAKE_MOVING\\medium\\park_brake_moving_medium_08.wav",
+    "updated_at": "2026-06-05T23:44:55"
+  },
+  "PARK_BRAKE_MOVING/medium/09": {
+    "event": "PARK_BRAKE_MOVING",
+    "severity": "medium",
+    "slot": 9,
+    "message": "Truck's slowed down, can't get the go slow.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\PARK_BRAKE_MOVING\\medium\\park_brake_moving_medium_09.wav",
+    "updated_at": "2026-06-05T23:45:16"
+  },
+  "PARK_BRAKE_MOVING/medium/10": {
+    "event": "PARK_BRAKE_MOVING",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Draggin' like it's slogging through the mud again.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\PARK_BRAKE_MOVING\\medium\\park_brake_moving_medium_10.wav",
+    "updated_at": "2026-06-05T23:45:38"
+  },
+  "ENGINE_OFF_ROLLING/medium/01": {
+    "event": "ENGINE_OFF_ROLLING",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Truck's too quiet, think I need a bit more rumble.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ENGINE_OFF_ROLLING\\medium\\engine_off_rolling_medium_01.wav",
+    "updated_at": "2026-06-05T23:45:58"
+  },
+  "ENGINE_OFF_ROLLING/medium/02": {
+    "event": "ENGINE_OFF_ROLLING",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Quiet as a church mouse, what's goin' on?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ENGINE_OFF_ROLLING\\medium\\engine_off_rolling_medium_02.wav",
+    "updated_at": "2026-06-05T23:46:17"
+  },
+  "ENGINE_OFF_ROLLING/medium/03": {
+    "event": "ENGINE_OFF_ROLLING",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Mate, need some decent engine rumble back here!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ENGINE_OFF_ROLLING\\medium\\engine_off_rolling_medium_03.wav",
+    "updated_at": "2026-06-05T23:46:39"
+  },
+  "ENGINE_OFF_ROLLING/medium/04": {
+    "event": "ENGINE_OFF_ROLLING",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Truck's running too quiet, sounds like a farting rabbit!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ENGINE_OFF_ROLLING\\medium\\engine_off_rolling_medium_04.wav",
+    "updated_at": "2026-06-05T23:47:01"
+  },
+  "ENGINE_OFF_ROLLING/medium/05": {
+    "event": "ENGINE_OFF_ROLLING",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Sounds like she's lost her bark, Donny!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ENGINE_OFF_ROLLING\\medium\\engine_off_rolling_medium_05.wav",
+    "updated_at": "2026-06-05T23:47:18"
+  },
+  "ENGINE_OFF_ROLLING/medium/06": {
+    "event": "ENGINE_OFF_ROLLING",
+    "severity": "medium",
+    "slot": 6,
+    "message": "Truck's as quiet as a church mouse at Easter.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ENGINE_OFF_ROLLING\\medium\\engine_off_rolling_medium_06.wav",
+    "updated_at": "2026-06-05T23:47:40"
+  },
+  "ENGINE_OFF_ROLLING/medium/07": {
+    "event": "ENGINE_OFF_ROLLING",
+    "severity": "medium",
+    "slot": 7,
+    "message": "Sounds a bit hollow, need some decent rumble back.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ENGINE_OFF_ROLLING\\medium\\engine_off_rolling_medium_07.wav",
+    "updated_at": "2026-06-05T23:48:01"
+  },
+  "ENGINE_OFF_ROLLING/medium/08": {
+    "event": "ENGINE_OFF_ROLLING",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Truck's too quiet, sounds like it's in mourning.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ENGINE_OFF_ROLLING\\medium\\engine_off_rolling_medium_08.wav",
+    "updated_at": "2026-06-05T23:48:21"
+  },
+  "ENGINE_OFF_ROLLING/medium/09": {
+    "event": "ENGINE_OFF_ROLLING",
+    "severity": "medium",
+    "slot": 9,
+    "message": "Truck's runnin' like a ghost, Donny, what's the play?",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ENGINE_OFF_ROLLING\\medium\\engine_off_rolling_medium_09.wav",
+    "updated_at": "2026-06-05T23:48:42"
+  },
+  "ENGINE_OFF_ROLLING/medium/10": {
+    "event": "ENGINE_OFF_ROLLING",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Sounds like she's got a case of the quiet assassins.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\ENGINE_OFF_ROLLING\\medium\\engine_off_rolling_medium_10.wav",
+    "updated_at": "2026-06-05T23:49:03"
+  },
+  "AIR_PRESSURE_WARNING/medium/01": {
+    "event": "AIR_PRESSURE_WARNING",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Donny, air's gettin' a bit testy on me.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\AIR_PRESSURE_WARNING\\medium\\air_pressure_warning_medium_01.wav",
+    "updated_at": "2026-06-05T23:49:20"
+  },
+  "AIR_PRESSURE_WARNING/medium/02": {
+    "event": "AIR_PRESSURE_WARNING",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Donny, air's gettin' a bit feisty.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\AIR_PRESSURE_WARNING\\medium\\air_pressure_warning_medium_02.wav",
+    "updated_at": "2026-06-05T23:49:38"
+  },
+  "AIR_PRESSURE_WARNING/medium/03": {
+    "event": "AIR_PRESSURE_WARNING",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Air's gettin' a bit testy, need some TLC.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\AIR_PRESSURE_WARNING\\medium\\air_pressure_warning_medium_03.wav",
+    "updated_at": "2026-06-05T23:49:58"
+  },
+  "AIR_PRESSURE_WARNING/medium/04": {
+    "event": "AIR_PRESSURE_WARNING",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Air's not playing ball, need a bit of TLC.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\AIR_PRESSURE_WARNING\\medium\\air_pressure_warning_medium_04.wav",
+    "updated_at": "2026-06-05T23:50:21"
+  },
+  "AIR_PRESSURE_WARNING/medium/05": {
+    "event": "AIR_PRESSURE_WARNING",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Air's bloody cranky, you're on it, mate.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\AIR_PRESSURE_WARNING\\medium\\air_pressure_warning_medium_05.wav",
+    "updated_at": "2026-06-05T23:50:37"
+  },
+  "AIR_PRESSURE_WARNING/medium/06": {
+    "event": "AIR_PRESSURE_WARNING",
+    "severity": "medium",
+    "slot": 6,
+    "message": "Air's gettin' a bit testy, need some love soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\AIR_PRESSURE_WARNING\\medium\\air_pressure_warning_medium_06.wav",
+    "updated_at": "2026-06-05T23:50:58"
+  },
+  "AIR_PRESSURE_WARNING/medium/07": {
+    "event": "AIR_PRESSURE_WARNING",
+    "severity": "medium",
+    "slot": 7,
+    "message": "Air's actin up again, don't know what's goin' on.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\AIR_PRESSURE_WARNING\\medium\\air_pressure_warning_medium_07.wav",
+    "updated_at": "2026-06-05T23:51:20"
+  },
+  "AIR_PRESSURE_WARNING/medium/08": {
+    "event": "AIR_PRESSURE_WARNING",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Air's not playing nice, need a breather soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\AIR_PRESSURE_WARNING\\medium\\air_pressure_warning_medium_08.wav",
+    "updated_at": "2026-06-05T23:51:40"
+  },
+  "AIR_PRESSURE_WARNING/medium/09": {
+    "event": "AIR_PRESSURE_WARNING",
+    "severity": "medium",
+    "slot": 9,
+    "message": "Air's goin' mental, need some chill time, pronto!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\AIR_PRESSURE_WARNING\\medium\\air_pressure_warning_medium_09.wav",
+    "updated_at": "2026-06-05T23:52:03"
+  },
+  "AIR_PRESSURE_WARNING/medium/10": {
+    "event": "AIR_PRESSURE_WARNING",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Donny, bloody air's giving me grief again!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\AIR_PRESSURE_WARNING\\medium\\air_pressure_warning_medium_10.wav",
+    "updated_at": "2026-06-05T23:52:20"
+  },
+  "BRAKE_TEMP_WARNING/medium/01": {
+    "event": "BRAKE_TEMP_WARNING",
+    "severity": "medium",
+    "slot": 1,
+    "message": "Got a bit of a heat in the footers, Donny!",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\BRAKE_TEMP_WARNING\\medium\\brake_temp_warning_medium_01.wav",
+    "updated_at": "2026-06-05T23:52:37"
+  },
+  "BRAKE_TEMP_WARNING/medium/02": {
+    "event": "BRAKE_TEMP_WARNING",
+    "severity": "medium",
+    "slot": 2,
+    "message": "Feels like we're running hot, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\BRAKE_TEMP_WARNING\\medium\\brake_temp_warning_medium_02.wav",
+    "updated_at": "2026-06-05T23:52:56"
+  },
+  "BRAKE_TEMP_WARNING/medium/03": {
+    "event": "BRAKE_TEMP_WARNING",
+    "severity": "medium",
+    "slot": 3,
+    "message": "Think I'm losin' feel with the brakes, Donn.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\BRAKE_TEMP_WARNING\\medium\\brake_temp_warning_medium_03.wav",
+    "updated_at": "2026-06-05T23:53:18"
+  },
+  "BRAKE_TEMP_WARNING/medium/04": {
+    "event": "BRAKE_TEMP_WARNING",
+    "severity": "medium",
+    "slot": 4,
+    "message": "Brakes are running a bit hot right now, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\BRAKE_TEMP_WARNING\\medium\\brake_temp_warning_medium_04.wav",
+    "updated_at": "2026-06-05T23:53:35"
+  },
+  "BRAKE_TEMP_WARNING/medium/05": {
+    "event": "BRAKE_TEMP_WARNING",
+    "severity": "medium",
+    "slot": 5,
+    "message": "Brakes feeling a bit wonky, Donny, got some warning signs.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\BRAKE_TEMP_WARNING\\medium\\brake_temp_warning_medium_05.wav",
+    "updated_at": "2026-06-05T23:53:56"
+  },
+  "BRAKE_TEMP_WARNING/medium/06": {
+    "event": "BRAKE_TEMP_WARNING",
+    "severity": "medium",
+    "slot": 6,
+    "message": "Brakes are getting warm, need a pull-up soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\BRAKE_TEMP_WARNING\\medium\\brake_temp_warning_medium_06.wav",
+    "updated_at": "2026-06-05T23:54:15"
+  },
+  "BRAKE_TEMP_WARNING/medium/07": {
+    "event": "BRAKE_TEMP_WARNING",
+    "severity": "medium",
+    "slot": 7,
+    "message": "Got a bit of heat on the brakes, Donny.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\BRAKE_TEMP_WARNING\\medium\\brake_temp_warning_medium_07.wav",
+    "updated_at": "2026-06-05T23:54:31"
+  },
+  "BRAKE_TEMP_WARNING/medium/08": {
+    "event": "BRAKE_TEMP_WARNING",
+    "severity": "medium",
+    "slot": 8,
+    "message": "Brakes are getting warm, might need a stop soon.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\BRAKE_TEMP_WARNING\\medium\\brake_temp_warning_medium_08.wav",
+    "updated_at": "2026-06-05T23:54:50"
+  },
+  "BRAKE_TEMP_WARNING/medium/09": {
+    "event": "BRAKE_TEMP_WARNING",
+    "severity": "medium",
+    "slot": 9,
+    "message": "Brakes are gettin' a bit too hot for comfort.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\BRAKE_TEMP_WARNING\\medium\\brake_temp_warning_medium_09.wav",
+    "updated_at": "2026-06-05T23:55:06"
+  },
+  "BRAKE_TEMP_WARNING/medium/10": {
+    "event": "BRAKE_TEMP_WARNING",
+    "severity": "medium",
+    "slot": 10,
+    "message": "Brakes are getting warm, feel like I'm losing control.",
+    "clip_path": "E:\\AI Development\\Qwen3-TTS\\qr-cache\\active\\BRAKE_TEMP_WARNING\\medium\\brake_temp_warning_medium_10.wav",
+    "updated_at": "2026-06-05T23:55:28"
+  }
+}

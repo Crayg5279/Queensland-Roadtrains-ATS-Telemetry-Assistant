@@ -1,0 +1,343 @@
+﻿2026-06-03 16:58:21,967 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-03 16:58:22,083 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-03 16:58:22,084 [1   ] [INFO ] Checking Firewall rule...
+2026-06-03 16:58:22,086 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-03 16:58:22,678 [1   ] [INFO ] Checking ACL rule status...
+2026-06-03 16:58:22,678 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-03 16:58:36,548 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-03 16:58:36,559 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-03 16:58:36,560 [1   ] [INFO ] Checking Firewall rule...
+2026-06-03 16:58:36,563 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-03 16:58:36,922 [1   ] [INFO ] Checking ACL rule status...
+2026-06-03 16:58:36,922 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-03 16:58:39,609 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-03 16:58:39,620 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-03 16:58:39,620 [1   ] [INFO ] Checking Firewall rule...
+2026-06-03 16:58:39,622 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-03 16:58:39,910 [1   ] [INFO ] Checking ACL rule status...
+2026-06-03 16:58:39,910 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-03 16:58:46,890 [1   ] [INFO ] Validating ETS2 path: 'c:\program files (x86)\steam\SteamApps\common\Euro Truck Simulator 2' ... Fail
+2026-06-03 16:58:46,891 [1   ] [INFO ] Validating ETS2 path: 'c:\program files (x86)\steam\SteamApps\common\Euro Truck Simulator 2' ... Fail
+2026-06-03 16:59:24,786 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-03 16:59:24,787 [1   ] [INFO ] Copying ETS2 x86 plugin DLL file to: C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator\bin\win_x86\plugins\ets2-telemetry-server.dll
+2026-06-03 16:59:24,789 [1   ] [INFO ] Copying ETS2 x64 plugin DLL file to: C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator\bin\win_x64\plugins\ets2-telemetry-server.dll
+2026-06-03 16:59:24,789 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-03 16:59:24,790 [1   ] [INFO ] Copying ATS x86 plugin DLL file to: c:\program files (x86)\steam\SteamApps\common\American Truck Simulator\bin\win_x86\plugins\ets2-telemetry-server.dll
+2026-06-03 16:59:24,790 [1   ] [INFO ] Copying ATS x64 plugin DLL file to: c:\program files (x86)\steam\SteamApps\common\American Truck Simulator\bin\win_x64\plugins\ets2-telemetry-server.dll
+2026-06-03 16:59:24,930 [1   ] [INFO ] Adding Firewall rule...
+2026-06-03 16:59:24,930 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall add rule name="ETS2 TELEMETRY SERVER (PORT 25555)" dir=in action=allow protocol=TCP localport=25555 remoteip=localsubnet
+2026-06-03 16:59:25,010 [1   ] [INFO ] Adding ACL rule...
+2026-06-03 16:59:25,010 [1   ] [INFO ] Running command line: 
+netsh http add urlacl url=http://+:25555/ user="\Everyone"
+2026-06-03 16:59:27,607 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-04 16:52:53,324 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-04 16:52:53,631 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-04 16:52:53,632 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-04 16:52:53,701 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-04 16:52:53,702 [1   ] [INFO ] Checking Firewall rule...
+2026-06-04 16:52:53,703 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-04 16:52:54,241 [1   ] [INFO ] Checking ACL rule status...
+2026-06-04 16:52:54,241 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-04 16:52:54,503 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-05 20:30:12,028 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-05 20:30:12,262 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-05 20:30:12,262 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-05 20:30:12,320 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-05 20:30:12,321 [1   ] [INFO ] Checking Firewall rule...
+2026-06-05 20:30:12,322 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-05 20:30:12,827 [1   ] [INFO ] Checking ACL rule status...
+2026-06-05 20:30:12,827 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-05 20:30:13,070 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-05 20:30:24,325 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-05 20:30:24,425 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-05 20:30:24,426 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-05 20:30:24,429 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-05 20:30:24,430 [1   ] [INFO ] Checking Firewall rule...
+2026-06-05 20:30:24,431 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-05 20:30:24,789 [1   ] [INFO ] Checking ACL rule status...
+2026-06-05 20:30:24,789 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-05 20:30:24,893 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-06 20:37:41,842 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-06 20:37:42,051 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-06 20:37:42,052 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-06 20:37:42,113 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-06 20:37:42,114 [1   ] [INFO ] Checking Firewall rule...
+2026-06-06 20:37:42,115 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-06 20:37:42,561 [1   ] [INFO ] Checking ACL rule status...
+2026-06-06 20:37:42,561 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-06 20:37:42,807 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-07 12:53:13,676 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-07 12:53:13,883 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-07 12:53:13,884 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-07 12:53:13,918 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-07 12:53:13,919 [1   ] [INFO ] Checking Firewall rule...
+2026-06-07 12:53:13,921 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-07 12:53:14,380 [1   ] [INFO ] Checking ACL rule status...
+2026-06-07 12:53:14,380 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-07 12:53:14,492 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-08 14:06:33,037 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-08 14:06:33,250 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-08 14:06:33,251 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-08 14:06:33,310 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-08 14:06:33,312 [1   ] [INFO ] Checking Firewall rule...
+2026-06-08 14:06:33,313 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-08 14:06:33,758 [1   ] [INFO ] Checking ACL rule status...
+2026-06-08 14:06:33,758 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-08 14:06:34,010 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-09 18:59:55,608 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-09 18:59:55,803 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-09 18:59:55,804 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-09 18:59:55,855 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-09 18:59:55,856 [1   ] [INFO ] Checking Firewall rule...
+2026-06-09 18:59:55,857 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-09 18:59:56,436 [1   ] [INFO ] Checking ACL rule status...
+2026-06-09 18:59:56,436 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-09 18:59:56,673 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-10 18:07:58,114 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-10 18:07:58,311 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-10 18:07:58,312 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-10 18:07:58,363 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-10 18:07:58,364 [1   ] [INFO ] Checking Firewall rule...
+2026-06-10 18:07:58,365 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-10 18:07:58,914 [1   ] [INFO ] Checking ACL rule status...
+2026-06-10 18:07:58,914 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-10 18:07:59,147 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-10 21:50:09,130 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-10 21:50:09,234 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-10 21:50:09,235 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-10 21:50:09,238 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-10 21:50:09,239 [1   ] [INFO ] Checking Firewall rule...
+2026-06-10 21:50:09,240 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-10 21:50:09,618 [1   ] [INFO ] Checking ACL rule status...
+2026-06-10 21:50:09,618 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-10 21:50:09,722 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-11 17:12:19,719 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-11 17:12:19,927 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-11 17:12:19,928 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-11 17:12:19,985 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-11 17:12:19,987 [1   ] [INFO ] Checking Firewall rule...
+2026-06-11 17:12:19,988 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-11 17:12:20,498 [1   ] [INFO ] Checking ACL rule status...
+2026-06-11 17:12:20,498 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-11 17:12:20,749 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-12 16:49:35,830 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-12 16:49:36,031 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-12 16:49:36,032 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-12 16:49:36,084 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-12 16:49:36,086 [1   ] [INFO ] Checking Firewall rule...
+2026-06-12 16:49:36,087 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-12 16:49:36,600 [1   ] [INFO ] Checking ACL rule status...
+2026-06-12 16:49:36,600 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-12 16:49:36,850 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-12 16:55:48,041 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-12 16:55:48,145 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-12 16:55:48,145 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-12 16:55:48,148 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-12 16:55:48,149 [1   ] [INFO ] Checking Firewall rule...
+2026-06-12 16:55:48,150 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-12 16:55:48,524 [1   ] [INFO ] Checking ACL rule status...
+2026-06-12 16:55:48,524 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-12 16:55:48,628 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-13 00:50:54,130 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-13 00:50:54,350 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-13 00:50:54,350 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-13 00:50:54,385 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-13 00:50:54,386 [1   ] [INFO ] Checking Firewall rule...
+2026-06-13 00:50:54,388 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-13 00:50:54,875 [1   ] [INFO ] Checking ACL rule status...
+2026-06-13 00:50:54,875 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-13 00:50:55,145 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-13 10:24:59,306 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-13 10:24:59,509 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-13 10:24:59,509 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-13 10:24:59,561 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-13 10:24:59,562 [1   ] [INFO ] Checking Firewall rule...
+2026-06-13 10:24:59,563 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-13 10:25:00,108 [1   ] [INFO ] Checking ACL rule status...
+2026-06-13 10:25:00,108 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-13 10:25:00,342 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-13 19:53:33,087 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-13 19:53:33,191 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-13 19:53:33,191 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-13 19:53:33,194 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-13 19:53:33,195 [1   ] [INFO ] Checking Firewall rule...
+2026-06-13 19:53:33,197 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-13 19:53:33,658 [1   ] [INFO ] Checking ACL rule status...
+2026-06-13 19:53:33,658 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-13 19:53:33,762 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-14 13:10:13,402 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-14 13:10:13,605 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-14 13:10:13,606 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-14 13:10:13,660 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-14 13:10:13,661 [1   ] [INFO ] Checking Firewall rule...
+2026-06-14 13:10:13,663 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-14 13:10:14,127 [1   ] [INFO ] Checking ACL rule status...
+2026-06-14 13:10:14,127 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-14 13:10:14,369 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-15 09:52:52,887 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-15 09:52:53,105 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-15 09:52:53,106 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-15 09:52:53,140 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-15 09:52:53,141 [1   ] [INFO ] Checking Firewall rule...
+2026-06-15 09:52:53,143 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-15 09:52:53,602 [1   ] [INFO ] Checking ACL rule status...
+2026-06-15 09:52:53,602 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-15 09:52:53,851 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-16 20:11:33,982 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-16 20:11:34,193 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-16 20:11:34,194 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-16 20:11:34,247 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-16 20:11:34,248 [1   ] [INFO ] Checking Firewall rule...
+2026-06-16 20:11:34,249 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-16 20:11:34,742 [1   ] [INFO ] Checking ACL rule status...
+2026-06-16 20:11:34,742 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-16 20:11:34,987 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-17 16:25:44,053 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-17 16:25:44,255 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-17 16:25:44,256 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-17 16:25:44,311 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-17 16:25:44,312 [1   ] [INFO ] Checking Firewall rule...
+2026-06-17 16:25:44,313 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-17 16:25:44,899 [1   ] [INFO ] Checking ACL rule status...
+2026-06-17 16:25:44,899 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-17 16:25:45,145 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2026-06-17 16:29:50,018 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2026-06-17 16:29:50,122 [1   ] [INFO ] Checking plugin DLL files...
+2026-06-17 16:29:50,122 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Steam\steamapps\common\American Truck Simulator' ... OK
+2026-06-17 16:29:50,125 [1   ] [INFO ] Validating ATS path: 'c:\program files (x86)\steam\SteamApps\common\American Truck Simulator' ... OK
+2026-06-17 16:29:50,126 [1   ] [INFO ] Checking Firewall rule...
+2026-06-17 16:29:50,128 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2026-06-17 16:29:50,504 [1   ] [INFO ] Checking ACL rule status...
+2026-06-17 16:29:50,504 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2026-06-17 16:29:50,608 [1   ] [INFO ] Found following network interfaces: 
+'{9D5DADC8-9F9E-4EF3-A2F6-0B83F6A0EB3D}': 'Ethernet' (Up), 
+'{4B4D56D5-C637-47CD-B7B4-12070E22D555}': 'VMware Network Adapter VMnet1' (Up), 
+'{7D9BB606-0418-48F3-A968-DA4E1720F07F}': 'VMware Network Adapter VMnet8' (Up), 
+'{3E50BD4D-D179-11F0-9382-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)

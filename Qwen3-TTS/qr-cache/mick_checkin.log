@@ -1,0 +1,196 @@
+[2026-06-07T00:21:27] Hey, Donny, just takin' a brek at this stopover, truck's feelin' a bit knackered.
+    context={"time_of_day": "morning", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "a bit tired", "rest_state": "fresh enough"}
+[2026-06-07T00:24:25] Hey champ, just thought I'd give you a shout, how's life on the road treatin' ya?
+    context={"time_of_day": "morning", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "a bit tired", "rest_state": "fresh enough"}
+[2026-06-07T00:29:04] Hey, champ, just takin' a breather here, got my coffee and the fans are hummin', all good so far.
+    context={"time_of_day": "morning", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "a bit tired", "rest_state": "fresh enough"}
+[2026-06-07T00:41:28] Rippin' along, Donny, got me coffee and tunes sorted, can't complain.
+    context={"time_of_day": "morning", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T00:44:47] How ya goin', champ? Just thought I'd give ya a shout, how's life treatin' ya?
+    context={"time_of_day": "morning", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T00:49:42] Morning, hotshot! Just cruisin' along, enjoying the quiet mornin', how's your day shapin' up?
+    context={"time_of_day": "morning", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T01:03:46] Hey old son, just passing by your rig, how's it holding up?
+    context={"time_of_day": "morning", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T01:06:30] Morning, old son, fuel's good and the ute's running sweet, just enjoying the mornin' drive so far.
+    context={"time_of_day": "morning", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T01:34:05] Good on ya, Donny! How's the old girl treatin' ya out there?
+    context={"time_of_day": "arvo", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T01:49:05] How's it going, champ? Just cruising along like a well-oiled machine, eh?
+    context={"time_of_day": "arvo", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T01:55:18] Hey, brother, how's it going? Enjoyin' the arvo drive so far?
+    context={"time_of_day": "arvo", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T02:19:38] Good on ya, Donny, how's it goin' out there?
+    context={"time_of_day": "arvo", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T02:28:31] Good on ya, Donny! How's the rig holding up for this arvo leg?
+    context={"time_of_day": "arvo", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T02:33:31] Hey, old son, just thought I'd give ya a shout, all systems lookin' good out here.
+    context={"time_of_day": "arvo", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T02:37:30] Champ, just thought I'd say G'day, how's life treating ya on the road so far?
+    context={"time_of_day": "arvo", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T02:41:28] Hey, how's it going champ? Just takin' a breather in this arvo heat.
+    context={"time_of_day": "arvo", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T02:47:16] Good on ya, Donny, how's it goin', champ?
+    context={"time_of_day": "arvo", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T03:02:26] Hey, old son, just thought I'd give you a shout and see how the hotshot's doin' tonight.
+    context={"time_of_day": "night", "job_progress": "right near the end", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T03:18:02] Champ, just wanted to say G'day, where are ya? Been driving like a galah out here.
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T03:20:40] Fair dinkum, bro, how's it going on your end?
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T03:25:29] G'day champ, how's the rig handling tonight?
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T03:43:55] Hey, old son, how's it going? Just getting into the zone, just got the coffee warmed up.
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T03:47:29] Champ, how's life treatin' ya on that truck? Everything runnin' smooth?
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:00:24] G'day, hotshot, just takin' a breather, coffee's strong, how's the ute treatin' ya?
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:03:04] Hey champ, just checking in, what's your ETA for tonight's drop?
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:05:18] How's my favourite hotshot doin', just cruisin' along, getting into the rhythm of things?
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:11:41] Hey hotshot, how's it goin', still alive on that long haul of yours?
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:13:50] Hey hotshot, how's it going? Still feeling like a champion out there?
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:17:15] Champ, how's it going, brother? Just wanted to see if you're still alive and on the right side of the.
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:26:38] Hey Champ, just wanted to say G'day and see how you're holding up out there tonight?
+    context={"time_of_day": "evening", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:31:37] Evening, hotshot, what's cookin' in your corner of the cab?
+    context={"time_of_day": "evening", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:37:31] Hey Donny, how's it going, champ? Loving the bits of road between Mackay and Cairns tonight.
+    context={"time_of_day": "evening", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:41:02] Champ, you're lookin' sharp out there, takin' the long haul solo.
+    context={"time_of_day": "evening", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T04:51:52] G'day, brother, how's it going? Just takin' a breather before headin' into the night, mate.
+    context={"time_of_day": "evening", "job_progress": "nearly wrapped up", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T13:37:30] Hey, old son, how's it goin' on your end, gettin' some decent feed at the next stopover?
+    context={"time_of_day": "evening", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T13:55:55] Fair dinkum, Donny, how's it going, champ? All systems go?
+    context={"time_of_day": "evening", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T14:00:05] Checkin' in, old son, how's life treatin' ya so far on this trip?
+    context={"time_of_day": "evening", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T14:02:54] Fair dinkum, Donny, how's it treatin' ya on that long haul, brother?
+    context={"time_of_day": "evening", "job_progress": "midway through the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T14:11:39] Brother, just got outta the servo, fillin' up at last stop, coffee's still good at the service bay.
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T18:18:58] Alright, old son, just cruisin' through the night, fuel's lookin' good, no issues so far.
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T18:33:31] Hey, old son, fuel's gettin' low, think I'll be pullin' in for a fill-up before dawn.
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "getting low", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T19:16:38] Hey champ, fuel's gettin' low, think we'll need to find a service stop before morning.
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "getting low", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T19:20:45] Hey, old son, just checking in, gettin' on the right track for a good night's drive.
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "getting low", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T19:24:40] Hey old son, how's the rig holding up out there?
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "getting low", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T19:30:32] Checkin' in, old son, just gettin' on for a bit with this tired ol' truck, how's it goin'?
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "getting low", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T19:38:02] Hey, big fella, how's it going? Funnin' you're doin', champ?
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "getting low", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T19:41:22] Checking in, old son, how's it going out there? Still got the ol' girl purrin'?
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "getting low", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T19:46:49] How's it goin', champ? Night air's gettin' chilly, reckon we're runnin' low on fuel.
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "getting low", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T19:51:03] Just gettin' close to the first stop, don't wanna be runnin' on fumes at dawn, hotshot.
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "getting low", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T19:56:27] Still running, Donny, just getting a bit thirsty, need to find some fuel soon.
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "getting low", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T20:19:49] G'day, old son, just checking in, how's life treating you out on the road tonight?
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T20:24:04] How's life treating you, old son? Got everything under control out there?
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T20:26:58] Morning, hotshot, how's the drive so far?
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T20:29:16] Hey champ, just checking in, how's it going on your end, brother?
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T20:34:11] Just fired up the old girl, bro. She's running sweet as, just got a bit of wear on the suspension.
+    context={"time_of_day": "night", "job_progress": "early in the run", "fuel_state": "good", "truck_health": "slightly worn", "rest_state": "fresh enough"}
+[2026-06-07T20:41:59] Quiet as a mouse in here, brother, what've you got for us tonight?
+    context={"time_of_day": "night", "depot_mood": "slow", "mick_location": "office"}
+[2026-06-07T20:46:19] Hey champ, lunchroom's quiet tonight, how's the road treating ya?
+    context={"time_of_day": "night", "depot_mood": "slow", "mick_location": "lunchroom"}
+[2026-06-07T20:49:39] Office is dead tonight, old son. Not a peep. You just keep truckin', all sorted.
+    context={"time_of_day": "night", "depot_mood": "quiet", "mick_location": "office"}
+[2026-06-07T20:54:58] Office is as quiet as a possum, brother, how's life on the road treatin' ya?
+    context={"time_of_day": "night", "depot_mood": "quiet", "mick_location": "lunchroom"}
+[2026-06-07T21:00:48] Hey old son, busy day here at the workshop, just gettin' some maintenance done while you're out on the road.
+    context={"time_of_day": "morning", "depot_mood": "slow", "mick_location": "yard"}
+[2026-06-07T21:05:24] Morning, old son! Quiet as a mouse here at the depot, even slower than usual.
+    context={"time_of_day": "morning", "depot_mood": "quiet", "mick_location": "lunchroom"}
+[2026-06-07T21:10:01] Good on ya, old son! Office's chock-full of sleepyheads this mornin', don't know when we'll hear a peep.
+    context={"time_of_day": "morning", "depot_mood": "hot", "mick_location": "workshop"}
+[2026-06-07T21:14:17] Morning champ, workshop's chockers today, how's the morning treating you?
+    context={"time_of_day": "morning", "depot_mood": "quiet", "mick_location": "office"}
+[2026-06-07T21:19:51] Morning, old son! Slow day here at the workshop, just tinkering with some bits and bobs.
+    context={"time_of_day": "morning", "depot_mood": "quiet", "mick_location": "yard"}
+[2026-06-07T21:26:32] Quiet around here, old son, how's it goin' on the roads this mornin'?
+    context={"time_of_day": "morning", "depot_mood": "busy", "mick_location": "yard"}
+[2026-06-07T21:29:26] Morning, old son, quiet as a mouse around here, just me and the usual workshop chatter.
+    context={"time_of_day": "morning", "depot_mood": "hot", "mick_location": "lunchroom"}
+[2026-06-07T21:34:07] G'day champ, lunchroom's chaos, office is slammed today.
+    context={"time_of_day": "morning", "depot_mood": "slow", "mick_location": "workshop"}
+[2026-06-07T21:38:32] Champ, coffee's flowin' like water here, slow day in the yard, don't bother 'bout much.
+    context={"time_of_day": "morning", "depot_mood": "hot", "mick_location": "office"}
+[2026-06-07T21:44:42] Morning, champ, lunchroom's goin' crazy today, gotta love the chaos while you're out on the road, brother!
+    context={"time_of_day": "morning", "depot_mood": "busy", "mick_location": "lunchroom"}
+[2026-06-07T21:49:05] Brother, office is quiet tonight, almost makes me suspicious, but I reckon it's just a good sign we're not gettin'.
+    context={"time_of_day": "morning", "depot_mood": "quiet", "mick_location": "office"}
+[2026-06-07T23:14:55] Morning old son, coffee's brewin' in the office, heat's goin' on outside.
+    context={"time_of_day": "morning", "depot_mood": "quiet", "mick_location": "workshop", "depot_topic": "radio chatter"}
+[2026-06-08T00:19:02] Slow morning, bro, fans are hummin' away in the office.
+    context={"time_of_day": "morning", "depot_mood": "hot", "mick_location": "office", "depot_topic": "CRT monitor"}
+[2026-06-08T16:20:51] Evening's heating up, old son, how's your day been so far?
+    context={"time_of_day": "evening", "depot_mood": "slow", "mick_location": "lunchroom", "depot_topic": "paperwork pile"}
+[2026-06-08T17:24:09] Fans are working overtime in the office, brother. Night's always quiet here, but something's goin' on.
+    context={"time_of_day": "night", "depot_mood": "slow", "mick_location": "workshop", "depot_topic": "lunchroom kettle"}
+[2026-06-08T20:07:25] Slow day here, old son, quiet as a mouse, just the usual morning hum in the yard.
+    context={"time_of_day": "morning", "depot_mood": "slow", "mick_location": "yard", "depot_topic": "coffee"}
+[2026-06-08T20:33:04] Good morning, old son, heat's on in here, coffee's strong as usual.
+    context={"time_of_day": "morning", "depot_mood": "quiet", "mick_location": "office", "depot_topic": "paperwork pile"}
+[2026-06-10T19:03:32] AMBIENT_CLIP random_memories\mickmode_random_memories_003.wav
+[2026-06-10T20:49:18] AMBIENT_CLIP office_life\mickmode_office_life_009.wav
+[2026-06-10T22:57:22] AMBIENT_CLIP radio_checkins\mickmode_radio_checkins_001.wav
+[2026-06-11T17:53:29] AMBIENT_CLIP random_memories\mickmode_random_memories_011.wav
+[2026-06-11T18:20:21] AMBIENT_CLIP lunchroom_drama\mickmode_lunchroom_drama_017.wav
+[2026-06-11T19:38:46] AMBIENT_CLIP depot_drama\mickmode_depot_drama_006.wav
+[2026-06-11T20:49:57] AMBIENT_CLIP old_trucks\mickmode_old_trucks_006.wav
+[2026-06-11T21:28:07] AMBIENT_CLIP depot_drama\mickmode_depot_drama_007.wav
+[2026-06-11T21:56:28] AMBIENT_CLIP yard_life\mickmode_yard_life_015.wav
+[2026-06-11T23:55:37] AMBIENT_CLIP random_memories\mickmode_random_memories_012.wav
+[2026-06-12T18:47:59] AMBIENT_CLIP depot_drama\mickmode_depot_drama_006.wav
+[2026-06-12T19:13:18] AMBIENT_CLIP workshop_banter\mickmode_workshop_banter_008.wav
+[2026-06-12T19:59:53] AMBIENT_CLIP workshop_banter\mickmode_workshop_banter_005.wav
+[2026-06-12T20:31:49] AMBIENT_CLIP office_life\mickmode_office_life_007.wav
+[2026-06-12T21:09:52] AMBIENT_CLIP lunchroom_drama\mickmode_lunchroom_drama_012.wav
+[2026-06-12T21:58:47] AMBIENT_CLIP coffee_fans\mickmode_coffee_fans_010.wav
+[2026-06-12T22:24:22] AMBIENT_CLIP office_life\mickmode_office_life_003.wav
+[2026-06-12T23:07:22] AMBIENT_CLIP random_memories\mickmode_random_memories_005.wav
+[2026-06-13T11:09:30] AMBIENT_CLIP workshop_banter\mickmode_workshop_banter_018.wav
+[2026-06-13T11:34:12] AMBIENT_CLIP lunchroom_drama\mickmode_lunchroom_drama_015.wav
+[2026-06-13T11:59:33] AMBIENT_CLIP old_trucks\mickmode_old_trucks_010.wav
+[2026-06-13T12:27:01] AMBIENT_CLIP lunchroom_drama\mickmode_lunchroom_drama_003.wav
+[2026-06-13T15:09:27] AMBIENT_CLIP old_trucks\mickmode_old_trucks_024.wav
+[2026-06-13T16:03:24] AMBIENT_CLIP coffee_fans\mickmode_coffee_fans_007.wav
+[2026-06-13T21:36:46] AMBIENT_CLIP random_memories\mickmode_random_memories_001.wav
+[2026-06-13T22:04:24] AMBIENT_CLIP depot_drama\mickmode_depot_drama_002.wav
+[2026-06-14T00:35:27] AMBIENT_CLIP depot_drama\mickmode_depot_drama_005.wav
+[2026-06-14T01:36:57] AMBIENT_CLIP radio_checkins\mickmode_radio_checkins_014.wav
+[2026-06-14T02:25:47] AMBIENT_CLIP random_memories\mickmode_random_memories_019.wav
+[2026-06-14T13:48:20] AMBIENT_CLIP yard_life\mickmode_yard_life_017.wav
+[2026-06-14T15:05:05] AMBIENT_CLIP yard_life\mickmode_yard_life_019.wav
+[2026-06-14T16:29:54] AMBIENT_CLIP random_memories\mickmode_random_memories_015.wav
+[2026-06-14T16:54:50] AMBIENT_CLIP random_memories\mickmode_random_memories_017.wav
+[2026-06-14T17:45:19] AMBIENT_CLIP office_life\mickmode_office_life_005.wav
+[2026-06-14T18:55:52] AMBIENT_CLIP dad_stories\mickmode_dad_stories_022.wav
+[2026-06-14T19:23:55] AMBIENT_CLIP yard_life\mickmode_yard_life_018.wav
+[2026-06-14T21:16:02] AMBIENT_CLIP coffee_fans\mickmode_coffee_fans_001.wav
+[2026-06-14T22:34:46] AMBIENT_CLIP workshop_banter\mickmode_workshop_banter_015.wav
+[2026-06-14T23:07:49] AMBIENT_CLIP coffee_fans\mickmode_coffee_fans_024.wav
+[2026-06-15T16:34:24] AMBIENT_CLIP lunchroom_drama\mickmode_lunchroom_drama_010.wav
+[2026-06-15T17:14:23] AMBIENT_CLIP old_trucks\mickmode_old_trucks_007.wav
+[2026-06-15T23:32:06] AMBIENT_CLIP radio_checkins\mickmode_radio_checkins_016.wav
+[2026-06-16T00:37:13] AMBIENT_CLIP random_memories\mickmode_random_memories_022.wav
+[2026-06-16T01:21:45] AMBIENT_CLIP workshop_banter\mickmode_workshop_banter_001.wav
