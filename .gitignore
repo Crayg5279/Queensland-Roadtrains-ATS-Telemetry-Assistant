@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 Qwen3-TTS/venv/
 Qwen3-TTS/models/Qwen3-TTS-12Hz-0.6B-Base/.cache/
+push_changes.ps1
