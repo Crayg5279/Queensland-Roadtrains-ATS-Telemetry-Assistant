@@ -1,3 +1,5 @@
+![Project screenshot](readme-assets/bigmac-title-image.png)
+
 # Queensland Roadtrains Dispatcher
 
 Queensland Roadtrains Dispatcher is a local telemetry-based CB radio companion for American Truck Simulator and Euro Truck Simulator 2. It adds Mick-Mode dispatcher alerts, immersive road stories, and a push-to-talk BigMac Assistant for live job, route, fuel, rest, and truck-status questions.
